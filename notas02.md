@@ -20,17 +20,17 @@
 
 - As ferramentas mais importantes são:
 
-- O ***Editor ABAP*** para processamento do texto fonte. ***TRANSAÇÃO SE84***
+- O ***Editor ABAP*** para processamento do texto fonte. ***TRANSAÇÃO SE...***
 
-- O ***ABAP Dictionary*** para processamento de definições de tabelas do banco de dados, tipos de dados centrais, etc.
+- O ***ABAP Dictionary*** para processamento de definições de tabelas do banco de dados, tipos de dados centrais, etc. ***TRANSAÇÃO SE...***
 
-- O ***Screen Painter*** para configuração de telas (telas em conjunto com funções para diálogos de usuário)
+- O ***Screen Painter*** para configuração de telas (telas em conjunto com funções para diálogos de usuário). ***TRANSAÇÃO SE...***
 
-- O ***Menu Painter*** para o design da interface de usuário (barra de menu, barra de ferramentas, barra de ferramentas da aplicação, definições de teclas de função);
+- O ***Menu Painter*** para o design da interface de usuário (barra de menu, barra de ferramentas, barra de ferramentas da aplicação, definições de teclas de função);. ***TRANSAÇÃO SE...***
     
-- O ***Function Builder*** para atualização de módulos de função;
+- O ***Function Builder*** para atualização de módulos de função. ***TRANSAÇÃO SE...***
 
-- O ***Class Builder*** para atualização de classes e interfaces globais.
+- O ***Class Builder*** para atualização de classes e interfaces globais. ***TRANSAÇÃO SE...***
 
    
 
@@ -38,7 +38,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTI4MzA0NiwtMTQ2ODk0MTI1MSwxNj
-kwMTE5OTE1LC00MzY5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4MDY0
-MzU0NjNdfQ==
+eyJoaXN0b3J5IjpbMTcwMTQyOTQzLC0xNDY4OTQxMjUxLDE2OT
+AxMTk5MTUsLTQzNjk0NjM5MiwtMTYyODY3MjQ0MCwtMTgwNjQz
+NTQ2M119
 -->
