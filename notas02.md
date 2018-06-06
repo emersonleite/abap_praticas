@@ -18,7 +18,15 @@
 
 ### Object Navigator
 - As ferramentas mais importantes são:
-- 
+- O Editor ABAP para processamento do texto fonte
+- O ABAP Dictionary para processamento de definições de tabelas do banco de dados, tipos de dados centrais, etc.
+
+- O Screen Painter para configuração de telas (telas em conjunto com funções para diálogos de usuário)
+•- O Menu Painter para o design da interface de usuário (barra de menu, barra
+de ferramentas, barra de ferramentas da aplicação, definições de teclas de
+função)
+•O Function Builder para atualização de módulos de função
+•O Class Builder para atualização de classes e interfaces globais
 
 
 
@@ -28,6 +36,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDk5MzczNSwxNjkwMTE5OTE1LC00Mz
-Y5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4MDY0MzU0NjNdfQ==
+eyJoaXN0b3J5IjpbNDM0MjAwNTA0LDE2OTAxMTk5MTUsLTQzNj
+k0NjM5MiwtMTYyODY3MjQ0MCwtMTgwNjQzNTQ2M119
 -->
