@@ -17,7 +17,8 @@
 -  A transação utilizada é a ***TRANSAÇÃO SE84***.
 
 ### Object Navigator
-
+- As ferramentas mais importantes são:
+- 
 
 
 
@@ -27,6 +28,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTk4ODcwMiwxNjkwMTE5OTE1LC00Mz
+eyJoaXN0b3J5IjpbLTM1NDk5MzczNSwxNjkwMTE5OTE1LC00Mz
 Y5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4MDY0MzU0NjNdfQ==
 -->
