@@ -17,7 +17,9 @@
 -  A transação utilizada é a ***TRANSAÇÃO SE84***.
 
 ### Object Navigator
+
 - As ferramentas mais importantes são:
+- 
 - O Editor ABAP para processamento do texto fonte
 - 
 - O ABAP Dictionary para processamento de definições de tabelas do banco de dados, tipos de dados centrais, etc.
@@ -26,7 +28,7 @@
 - 
 - O Menu Painter para o design da interface de usuário (barra de menu, barra
 de ferramentas, barra de ferramentas da aplicação, definições de teclas de
-função)
+função)    
 - 
 •- 
 •O Function Builder para atualização de módulos de função
@@ -40,6 +42,6 @@ função)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2OTQyNTk4LDE2OTAxMTk5MTUsLTQzNj
-k0NjM5MiwtMTYyODY3MjQ0MCwtMTgwNjQzNTQ2M119
+eyJoaXN0b3J5IjpbLTE0Njg5NDEyNTEsMTY5MDExOTkxNSwtND
+M2OTQ2MzkyLC0xNjI4NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
