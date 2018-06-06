@@ -8,11 +8,15 @@
 
 - Além do ___Repositório___, o banco de dados também **contém dados de aplicação e de customizing** que, normalmente, **são dependentes do mandante**.
 
+- Sempre que se cria um objeto do repositório, é necessário atribuí-lo a um pacote.
+
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzA0OTk5LC0xODA2NDM1NDYzXX0=
+eyJoaXN0b3J5IjpbLTE3NTI2MDE4MzMsLTE4MDY0MzU0NjNdfQ
+==
 -->
