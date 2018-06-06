@@ -14,7 +14,7 @@
 
 ### Ferramentas de pesquisa no repositório
 - O sistema de informação do repositório é adequado para pesquisas aleatória.
--  A transação utilizada é a 
+-  A transação utilizada é a ***TRANSAÇÃO SE84***.
 
 
 
@@ -24,6 +24,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjU5MzIxMywtNDM2OTQ2MzkyLC0xNj
+eyJoaXN0b3J5IjpbMTY5MDExOTkxNSwtNDM2OTQ2MzkyLC0xNj
 I4NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
