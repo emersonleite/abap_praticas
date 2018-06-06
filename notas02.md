@@ -12,6 +12,9 @@
 
 - O ___Repositório___ está subdividido de acordo com componentes de aplicação.
 
+### Ferramentas de pesquisa no repositório
+- 
+
 
 
 
@@ -20,6 +23,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk0NjM5MiwtMTYyODY3MjQ0MCwtMT
-gwNjQzNTQ2M119
+eyJoaXN0b3J5IjpbLTE4MjA4MTA1NzAsLTQzNjk0NjM5MiwtMT
+YyODY3MjQ0MCwtMTgwNjQzNTQ2M119
 -->
