@@ -10,6 +10,9 @@
 
 - Sempre que se cria um objeto do repositório, é necessário atribuí-lo a um pacote.
 
+- O ___Repositório___ está subdividido de acordo com componentes de aplicação.
+
+
 
 
 
@@ -17,6 +20,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI2MDE4MzMsLTE4MDY0MzU0NjNdfQ
+eyJoaXN0b3J5IjpbLTE2Mjg2NzI0NDAsLTE4MDY0MzU0NjNdfQ
 ==
 -->
