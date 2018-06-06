@@ -13,7 +13,8 @@
 - O ___Repositório___ está subdividido de acordo com componentes de aplicação.
 
 ### Ferramentas de pesquisa no repositório
-- 
+- O sistema de informação do repositório é adequado para pesquisas aleatória.
+-  A transação utilizada é a 
 
 
 
@@ -23,6 +24,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA4MTA1NzAsLTQzNjk0NjM5MiwtMT
-YyODY3MjQ0MCwtMTgwNjQzNTQ2M119
+eyJoaXN0b3J5IjpbLTUyNjU5MzIxMywtNDM2OTQ2MzkyLC0xNj
+I4NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
