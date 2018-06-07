@@ -16,7 +16,7 @@
 - O sistema de informação do repositório é adequado para pesquisas aleatória.
 -  A transação utilizada é a ***TRANSAÇÃO SE84***.
 
-### Object Navigator
+### Object Navigator - ***TRANSAÇÃO SE80***
 
 - As ferramentas mais importantes são:
 
@@ -38,7 +38,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTI1MTQ5MCwtMTA0MTY0NDU5NSwxNz
-AxNDI5NDMsLTE0Njg5NDEyNTEsMTY5MDExOTkxNSwtNDM2OTQ2
-MzkyLC0xNjI4NjcyNDQwLC0xODA2NDM1NDYzXX0=
+eyJoaXN0b3J5IjpbMTE4MDAwNTc4OSwxMTE1MjUxNDkwLC0xMD
+QxNjQ0NTk1LDE3MDE0Mjk0MywtMTQ2ODk0MTI1MSwxNjkwMTE5
+OTE1LC00MzY5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4MDY0MzU0Nj
+NdfQ==
 -->
