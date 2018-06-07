@@ -32,14 +32,17 @@
 
 - O ***Class Builder*** para atualização de classes e interfaces globais. ***TRANSAÇÃO SE...***
 
-> 
- 
+
+
+**Objetos criados pelo usuário deve começar com a letra "Z" ou "Y".**
+
+
  - [ ] List item
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM1Mzc1MTUsMTE4MDAwNTc4OSwxMT
-gwMDA1Nzg5LDExMTUyNTE0OTAsLTEwNDE2NDQ1OTUsMTcwMTQy
-OTQzLC0xNDY4OTQxMjUxLDE2OTAxMTk5MTUsLTQzNjk0NjM5Mi
-wtMTYyODY3MjQ0MCwtMTgwNjQzNTQ2M119
+eyJoaXN0b3J5IjpbMTUyODMyMDI5MSwxMTgwMDA1Nzg5LDExOD
+AwMDU3ODksMTExNTI1MTQ5MCwtMTA0MTY0NDU5NSwxNzAxNDI5
+NDMsLTE0Njg5NDEyNTEsMTY5MDExOTkxNSwtNDM2OTQ2MzkyLC
+0xNjI4NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
