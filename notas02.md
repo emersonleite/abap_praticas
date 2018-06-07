@@ -34,11 +34,11 @@
 
   
 
- - [x] List item
+ - [ ] List item
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzY1NTc5NywxMTgwMDA1Nzg5LDExMT
+eyJoaXN0b3J5IjpbMTE4MDAwNTc4OSwxMTgwMDA1Nzg5LDExMT
 UyNTE0OTAsLTEwNDE2NDQ1OTUsMTcwMTQyOTQzLC0xNDY4OTQx
 MjUxLDE2OTAxMTk5MTUsLTQzNjk0NjM5MiwtMTYyODY3MjQ0MC
 wtMTgwNjQzNTQ2M119
