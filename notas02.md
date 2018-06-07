@@ -32,13 +32,13 @@
 
 - O ***Class Builder*** para atualização de classes e interfaces globais. ***TRANSAÇÃO SE...***
 
-   
+  
 
  - [ ] List item
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTQyOTQzLC0xNDY4OTQxMjUxLDE2OT
-AxMTk5MTUsLTQzNjk0NjM5MiwtMTYyODY3MjQ0MCwtMTgwNjQz
-NTQ2M119
+eyJoaXN0b3J5IjpbLTEwNDE2NDQ1OTUsMTcwMTQyOTQzLC0xND
+Y4OTQxMjUxLDE2OTAxMTk5MTUsLTQzNjk0NjM5MiwtMTYyODY3
+MjQ0MCwtMTgwNjQzNTQ2M119
 -->
