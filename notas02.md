@@ -36,16 +36,16 @@
 ## Observaçõe do curso do Passarelli
 
 - **Objetos criados pelo usuário deve começar com a letra "Z" ou "Y";**
-- 
+- Atalhos /nNomeDaTransacao -> vai para 
 
 
  - [ ] List item
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgxMDI4NTUsMTUyODMyMDI5MSwxMT
-gwMDA1Nzg5LDExODAwMDU3ODksMTExNTI1MTQ5MCwtMTA0MTY0
-NDU5NSwxNzAxNDI5NDMsLTE0Njg5NDEyNTEsMTY5MDExOTkxNS
-wtNDM2OTQ2MzkyLC0xNjI4NjcyNDQwLC0xODA2NDM1NDYzXX0=
-
+eyJoaXN0b3J5IjpbLTcwNDM0MDcwOSwtMTkyODEwMjg1NSwxNT
+I4MzIwMjkxLDExODAwMDU3ODksMTE4MDAwNTc4OSwxMTE1MjUx
+NDkwLC0xMDQxNjQ0NTk1LDE3MDE0Mjk0MywtMTQ2ODk0MTI1MS
+wxNjkwMTE5OTE1LC00MzY5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4
+MDY0MzU0NjNdfQ==
 -->
