@@ -38,14 +38,15 @@
 - **Objetos criados pelo usuário deve começar com a letra "Z" ou "Y";**
 - Atalhos:
 -  **/n**NomeDaTransacao -> vai para NomeDaTransacao;
-- /o - cria uma nova tela.
+- **/o** -> cria uma nova tela.
+- /i -> Fecha a 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjcxNjkzMSwtMTkyODEwMjg1NSwxNT
-I4MzIwMjkxLDExODAwMDU3ODksMTE4MDAwNTc4OSwxMTE1MjUx
-NDkwLC0xMDQxNjQ0NTk1LDE3MDE0Mjk0MywtMTQ2ODk0MTI1MS
-wxNjkwMTE5OTE1LC00MzY5NDYzOTIsLTE2Mjg2NzI0NDAsLTE4
-MDY0MzU0NjNdfQ==
+eyJoaXN0b3J5IjpbOTk3ODkyNzE1LDEzOTI3MTY5MzEsLTE5Mj
+gxMDI4NTUsMTUyODMyMDI5MSwxMTgwMDA1Nzg5LDExODAwMDU3
+ODksMTExNTI1MTQ5MCwtMTA0MTY0NDU5NSwxNzAxNDI5NDMsLT
+E0Njg5NDEyNTEsMTY5MDExOTkxNSwtNDM2OTQ2MzkyLC0xNjI4
+NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
