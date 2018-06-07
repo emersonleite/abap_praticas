@@ -39,14 +39,15 @@
 - Atalhos:
 -  **/n**NomeDaTransacao -> vai para NomeDaTransacao;
 - **/o** -> cria uma nova tela.
-- /i -> Fecha a 
+- **/i** -> Fecha a janela atual do sistema;
+- **/nex** -> fecha todas as telas sem salvar.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3ODkyNzE1LDEzOTI3MTY5MzEsLTE5Mj
-gxMDI4NTUsMTUyODMyMDI5MSwxMTgwMDA1Nzg5LDExODAwMDU3
-ODksMTExNTI1MTQ5MCwtMTA0MTY0NDU5NSwxNzAxNDI5NDMsLT
-E0Njg5NDEyNTEsMTY5MDExOTkxNSwtNDM2OTQ2MzkyLC0xNjI4
-NjcyNDQwLC0xODA2NDM1NDYzXX0=
+eyJoaXN0b3J5IjpbLTIwMjA0NTE2ODAsMTM5MjcxNjkzMSwtMT
+kyODEwMjg1NSwxNTI4MzIwMjkxLDExODAwMDU3ODksMTE4MDAw
+NTc4OSwxMTE1MjUxNDkwLC0xMDQxNjQ0NTk1LDE3MDE0Mjk0My
+wtMTQ2ODk0MTI1MSwxNjkwMTE5OTE1LC00MzY5NDYzOTIsLTE2
+Mjg2NzI0NDAsLTE4MDY0MzU0NjNdfQ==
 -->
