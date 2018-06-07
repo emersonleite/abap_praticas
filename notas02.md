@@ -33,20 +33,11 @@
 - O ***Class Builder*** para atualização de classes e interfaces globais. ***TRANSAÇÃO SE...***
 
 
-## Observações do curso do Passarelli
-
-- **Objetos criados pelo usuário deve começar com a letra "Z" ou "Y";**
-
-- Atalhos:
--  **/n**NomeDaTransacao -> vai para NomeDaTransacao;
-- **/o** -> cria uma nova tela.
-- **/i** -> Fecha a janela atual do sistema;
-- **/nex** -> fecha todas as telas sem salvar.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU1NTc3MjUsMTM5MjcxNjkzMSwtMT
+eyJoaXN0b3J5IjpbLTE0OTA3MjkwMTUsMTM5MjcxNjkzMSwtMT
 kyODEwMjg1NSwxNTI4MzIwMjkxLDExODAwMDU3ODksMTE4MDAw
 NTc4OSwxMTE1MjUxNDkwLC0xMDQxNjQ0NTk1LDE3MDE0Mjk0My
 wtMTQ2ODk0MTI1MSwxNjkwMTE5OTE1LC00MzY5NDYzOTIsLTE2
