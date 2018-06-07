@@ -8,8 +8,11 @@
 - **/i** -> Fecha a janela atual do sistema;
 - **/nex** -> fecha todas as telas sem salvar.
 
+```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDg4NTYxLC0xOTQ1NDg0ODE1XX0=
+eyJoaXN0b3J5IjpbNDI2MTgwNzMsLTQwMDg4NTYxLC0xOTQ1ND
+g0ODE1XX0=
 -->
