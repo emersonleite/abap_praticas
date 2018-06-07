@@ -20,7 +20,7 @@
 
 - As ferramentas mais importantes são:
 
-- O ***Editor ABAP*** para processamento do texto fonte. ***TRANSAÇÃO SE...***
+- O ***Editor ABAP*** para processamento do texto fonte. ***TRANSAÇÃO SE38***
 
 - O ***ABAP Dictionary*** para processamento de definições de tabelas do banco de dados, tipos de dados centrais, etc. ***TRANSAÇÃO SE...***
 
@@ -38,7 +38,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE2NDQ1OTUsMTcwMTQyOTQzLC0xND
-Y4OTQxMjUxLDE2OTAxMTk5MTUsLTQzNjk0NjM5MiwtMTYyODY3
-MjQ0MCwtMTgwNjQzNTQ2M119
+eyJoaXN0b3J5IjpbMTExNTI1MTQ5MCwtMTA0MTY0NDU5NSwxNz
+AxNDI5NDMsLTE0Njg5NDEyNTEsMTY5MDExOTkxNSwtNDM2OTQ2
+MzkyLC0xNjI4NjcyNDQwLC0xODA2NDM1NDYzXX0=
 -->
