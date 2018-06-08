@@ -64,6 +64,8 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 ```
 > Para melhorar a legibilidade de seu programa, você não deve mais utilizar esta sintaxe obsoleta.
 
+### Tipos de dados globais
+
 
 
 
@@ -71,6 +73,6 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg5Nzk0NTgsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE3NTE3MDUzMTUsLTExODEzNzUzMzZdfQ
 ==
 -->
