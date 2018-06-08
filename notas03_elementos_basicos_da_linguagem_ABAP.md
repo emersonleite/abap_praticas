@@ -70,6 +70,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 - *Data element*, *Structure* ou *Table Type*.
 
+
 ![enter link description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
 
 ![enter image description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
@@ -82,7 +83,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjQ1NDIzLDE5NDQxMjA0NTksLTkyMD
+eyJoaXN0b3J5IjpbLTI3Mzk4NzE5LDE5NDQxMjA0NTksLTkyMD
 I4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0
 MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC
 0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
