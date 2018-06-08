@@ -69,7 +69,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 - *Data element*, *Structure* ou *Table Type*.
 
-![enter image description here](https://github.com/emersonleite/abap_praticas/fig02.png)
+
 
 
 
@@ -81,7 +81,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDgwMTA4MCwtMTE1OTA5NjIzNCwtMj
-A5MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4NDE1MzUzLDI0MzIx
-OTczLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbLTExNTkwOTYyMzQsLTI0MDgwMTA4MCwtMT
+E1OTA5NjIzNCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4
+NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
 -->
