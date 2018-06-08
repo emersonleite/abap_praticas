@@ -69,7 +69,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 - Uma categoria de dados definida no *ABAP Dictionary* denomina- se global porque pode ser utilizada em todo o sistema (ou seja, em todo o sistema da SAP em questão): 
 
 - *Data element*, *Structure* ou *Table Type*.
-
+![Teste](https://picasaweb.google.com/108895071127265600144/6564737041114560833#6564737039031983554)
 
 ![enter link description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
 
@@ -83,8 +83,9 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mzk4NzE5LDE5NDQxMjA0NTksLTkyMD
-I4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0
-MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC
-0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOT
+IwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3
+MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4NjA5Mz
+QsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZdfQ==
+
 -->
