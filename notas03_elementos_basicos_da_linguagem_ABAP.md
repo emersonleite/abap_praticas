@@ -144,16 +144,19 @@ projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
 
 As categorias de dados locais apenas devem ser utilizadas exclusivamente no programa onde são definidas e se a informação semântica não for importante para a definição dos objetos de dados correspondentes.
 
+### 
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIzMzkxLDIwOTI1MTM0MywtMTg2Nj
-M4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0
-Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNT
-kyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3
-NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC
-02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMiwtMjQw
-ODAxMDgwXX0=
+eyJoaXN0b3J5IjpbLTczMjEwNDc4NiwyMDkyNTEzNDMsLTE4Nj
+YzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1
+NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMT
+U5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5
+NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MS
+wtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0
+MDgwMTA4MF19
 -->
