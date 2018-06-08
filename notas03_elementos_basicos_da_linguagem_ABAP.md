@@ -76,14 +76,14 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
 V ocê pode referenciar um objeto de dados já definido quando estiver definindo variáveis adicionais (suplemento *LIKE*).
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master///fig03.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/img/fig03.png)
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc5ODg1NzMsLTEwMTczNzgzMDcsNz
+eyJoaXN0b3J5IjpbLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNz
 E2NDM5NTI0LDU1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIw
 NDU5LC05MjAyODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNC
 wxMDYzMTcwNDIyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUz
