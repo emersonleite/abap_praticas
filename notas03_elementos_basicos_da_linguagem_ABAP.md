@@ -2,10 +2,18 @@
 
 Uma descrição formal de uma variável é uma categoria de dados **(data type)**. Inversamente, uma variável ou uma constante definida concretamente por meio de uma tipo de dados é um objeto de dados **(data object)**.
 
-Pode-se usar ti
+Pode-se usar tipos de dados nas situações a seguir:
+
+- *Definição de objetos de dados*
+A categoria de um objeto de dados define suas propriedades técnicas (e,
+possivelmente, também semânticas).
+
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQxNjcwMywtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbLTE4NTcxMjI0NjksLTExODEzNzUzMzZdfQ
+==
 -->
