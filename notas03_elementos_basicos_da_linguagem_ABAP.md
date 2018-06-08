@@ -56,7 +56,7 @@ TYPES gty_c_type TYPE c LENGTH 8.
 TYPES gty_p_type TYPE p LENGTH 3 DECIMALS 2.
 ```
 
-> Dica:  Existe uma sintaxe alternativa para indicar o comprimento  com o suplemento LENGTH, que você encontrará frequentemente em programas mais antigos. Aqui, o comprimento é indicado entre parênteses
+> Dica:  Existe uma sintaxe alternativa para indicar o comprimento  com o suplemento *LENGTH*, que você encontrará frequentemente em programas mais antigos. Aqui, o comprimento é indicado entre parênteses
 imediatamente após o nome da categoria. Os exemplos incluem:
 ```abap
 TYPES gty_c_type(3) TYPE c.
@@ -65,6 +65,9 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 > Para melhorar a legibilidade de seu programa, você não deve mais utilizar esta sintaxe obsoleta.
 
 ### Tipos de dados globais
+- Uma categoria de dados definida no *ABAP Dictionary* denomina- se global porque pode ser utilizada em todo o sistema (ou seja, em todo o sistema da SAP em questão).
+- 
+
 
 
 
@@ -73,6 +76,5 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE3MDUzMTUsLTExODEzNzUzMzZdfQ
-==
+eyJoaXN0b3J5IjpbMjQzMjE5NzMsLTExODEzNzUzMzZdfQ==
 -->
