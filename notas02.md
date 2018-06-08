@@ -32,14 +32,15 @@
 
 - O ***Class Builder*** para atualização de classes e interfaces globais. ***TRANSAÇÃO SE...***
 
-![Estrutura de tela - object ](inserir%20figura)
+
+![Estrutura de tela - object Navigator](inserir%20figura)
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDU0NDA1NiwtMTQ5MDcyOTAxNSwxMz
+eyJoaXN0b3J5IjpbLTQ5MTAxMDY0MSwtMTQ5MDcyOTAxNSwxMz
 kyNzE2OTMxLC0xOTI4MTAyODU1LDE1MjgzMjAyOTEsMTE4MDAw
 NTc4OSwxMTgwMDA1Nzg5LDExMTUyNTE0OTAsLTEwNDE2NDQ1OT
 UsMTcwMTQyOTQzLC0xNDY4OTQxMjUxLDE2OTAxMTk5MTUsLTQz
