@@ -172,7 +172,11 @@ A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicia
 #### Cálculos e expressões aritméticas
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig09.png)
-
+ 
+ Em ABAP pode-se programar expressões aritméticas. As operações válidas são as seguintes:
+ 
+ 
+ 
 
 
 
@@ -186,7 +190,7 @@ A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwOTIwMDQ5LC0xNDExMjU5NzQ1LDE5MT
+eyJoaXN0b3J5IjpbLTcwMDM5MzYzLC0xNDExMjU5NzQ1LDE5MT
 c2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC0xODY2Mzg0
 NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3NTQ2LD
 cwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1OTI2
