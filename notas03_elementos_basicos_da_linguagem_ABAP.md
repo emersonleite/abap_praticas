@@ -154,18 +154,20 @@ previamente atribuído um valor inicial específico de tipo, exceto se tiver sid
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig08.png)
 
-Pode-se utilizar *MOVE* para tra
+Pode-se utilizar *MOVE* para transferir o conteúdo de um objeto de dados para outro objeto. As duas variantes abaixo tem o mesmo resultado.
+
+    enter code here
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA0NTQzMTUsMTkxNzYxNDQ2OSwtMj
-A4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4
-MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LD
-kxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAx
-NzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNz
-MyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0x
-MTU5MDk2MjM0XX0=
+eyJoaXN0b3J5IjpbLTk4NzU3MjE4OSwxOTE3NjE0NDY5LC0yMD
+g3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4NDQ5NSwtMjk5Njgw
+MDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Niw3MDUzNDI4OTQsOT
+E0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3
+Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3Mz
+IsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTEx
+NTkwOTYyMzRdfQ==
 -->
