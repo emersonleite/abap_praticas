@@ -132,6 +132,8 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig07.png)
 
+As categorias de dados locais só podem ser utilizadas no programa em que são definidas. As categorias de dados globais, ao contrário, podem ser utilizados em todo o sistema.
+As vantagnes das ti
 
 
 
@@ -143,11 +145,11 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MzA2MDc0LDE5MDMyMzAyNDQsMTczOT
-I4NzU0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5
-LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NT
-U4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4
-NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMi
-wtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5
-Njg0MTUzNTNdfQ==
+eyJoaXN0b3J5IjpbNjQ0ODYzMjksMTkwMzIzMDI0NCwxNzM5Mj
+g3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTks
+LTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1NT
+gyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0
+NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC
+0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2
+ODQxNTM1M119
 -->
