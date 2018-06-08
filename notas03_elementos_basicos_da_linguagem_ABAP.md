@@ -93,6 +93,8 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 
 ### Literais, constantes e símbolos de texto
 
+![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig05.png)
+
 
 
 
@@ -100,11 +102,11 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzY0NTYzNCw5MTQ0OTI3MzEsLTE4OT
-kzODExNTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5
-NTI0LDU1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC
-05MjAyODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYz
-MTcwNDIyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MD
-kzNCwtMTk2ODQxNTM1MywyNDMyMTk3MywtMTE4MTM3NTMzNl19
-
+eyJoaXN0b3J5IjpbLTE0OTAzOTMxMDIsOTE0NDkyNzMxLC0xOD
+k5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQz
+OTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OS
+wtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2
+MzE3MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4Nj
+A5MzQsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZd
+fQ==
 -->
