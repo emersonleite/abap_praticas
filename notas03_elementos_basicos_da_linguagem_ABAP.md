@@ -82,7 +82,8 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 
 - Pode-se utilizar o suplemento *VALUE* para atribuir previamente o valor de um objeto de dados elementar.
 
-> **Dica**: Na instrução *DATA*, você também tem a opção de indicar o comprimento entre parênteses, a seguir ao nome da variável, por exemplo:
+> **Dica**: 
+> Na instrução *DATA*, você também tem a opção de indicar o comprimento entre parênteses, a seguir ao nome da variável, por exemplo:
 ```abap
 DATA gv_myvar(15) TYPE c.
 DATA gv_myvar_p(4) TYPE p DECIMALS 2.
@@ -99,16 +100,20 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 -  Existem literais numéricos (indicados sem aspas) e caracteres literais (indicados com aspas). A imagem abaixo mostra alguns exemplos de literais.
 - Defini-se constantes utilizando a instrução *CONSTANTS*. **Seu tipo é definido de forma similar à definição de objetos de dados elementares**. O suplemento *VALUE* é obrigatório para constantes. É assim que você define o valor das constantes.
 
+>**Dica:**
+>Se possível, evite completamente os literais ao utilizar instruções. Em vez disso, utilize constantes e símbolos de texto. Isso facilita muito a atualização de seu programa
+
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUxNjg0NzUsOTE0NDkyNzMxLC0xOD
-k5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQz
-OTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OS
-wtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2
-MzE3MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4Nj
-A5MzQsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZd
-fQ==
+eyJoaXN0b3J5IjpbNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OT
+M4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1
+MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLT
+kyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMx
+NzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOT
+M0LC0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+
 -->
