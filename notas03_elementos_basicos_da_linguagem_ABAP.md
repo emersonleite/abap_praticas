@@ -13,6 +13,9 @@ O tipo de um parâmetro da interface determina o tipo do próprio parâmetro que
 3. *Definição de campos de entrada/saída:*
 O tipo de um campo de entrada/saída pode fornecer outras informações além das características técnicas, como a ajuda de campo e de entrada de valores.
 
+## Tipos ABAP padrão (*standard data types*)
+
+
 
 - 
 
@@ -22,5 +25,5 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzM4MzkzNiwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbNjc3NjkyMjksLTExODEzNzUzMzZdfQ==
 -->
