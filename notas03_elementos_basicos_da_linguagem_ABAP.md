@@ -24,9 +24,9 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 | T (time) | formato: HHMMSS, comprimento 6 (fixo) |
 | I (integer) | comprimento 4 (fixo) |
 |F (float)|comprimento 8 (fixo)|
-|STRING|T ipo para cadeia de caracteres com comprimento dinâmico|
-|XSTRING|T ipo para sequência de bytes com comprimento dinâmico (Cadeia
-heX adecimal)|
+|STRING|T ipo para cadeia de caracteres com comprimento dinâmico - 1 a 65535 bytes|
+|XSTRING|Tipo para sequência de bytes com comprimento dinâmico (Cadeia
+heX adecimal)- 1 a 65535 bytes|
 
 
 
@@ -38,5 +38,5 @@ heX adecimal)|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MTM4MzE4LC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbMzg2NTYxNTE2LC0xMTgxMzc1MzM2XX0=
 -->
