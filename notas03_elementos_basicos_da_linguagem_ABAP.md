@@ -73,7 +73,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 ### Definição de objetos de dados variáveis
 
-	Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
+Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
 V ocê pode referenciar um objeto de dados já definido quando estiver definindo variáveis adicionais (suplemento *LIKE*).
 
 
@@ -81,7 +81,7 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUyODYwNTksNzE2NDM5NTI0LDU1NT
+eyJoaXN0b3J5IjpbLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1NT
 gyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0
 NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC
 0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2
