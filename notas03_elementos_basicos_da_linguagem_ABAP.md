@@ -17,7 +17,7 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 - Divididos em dois grupos: tipos **completos** e **incompletos**.
 
-#### **Completos** 
+### **Completos** 
 
 - Eles já contêm uma especificação de comprimento fixa e específica de tipo:
 
@@ -33,7 +33,7 @@ heX adecimal)|
 |DECFLOAT16|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. comprimento de 8 bytes com 16 casas decimais. A partir da versão 7.0 EhP2 |
 |DECFLOAT34|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. Comprimento de 16 bytes com 34 casas decimais. A partir da versão 7.0 EhP2 |
 
-#### **Incompletos**
+### **Incompletos**
 - Não tem comprimento fixo. Quando utilizados precisam vir com o comprimento da variável discriminado.
 
 |Standard Types|Descrição  |
@@ -43,7 +43,7 @@ heX adecimal)|
 |X|Tipo para sequência de bytes (cadeia He**X**adecimal) para a qual se deve indicar o comprimento fixo.|
 |P|Tipo para número compactado (número Com**P**actado) para a qual se deve indicar o comprimento fixo. Na definição de um número compactado, também é possível indicar o número de casas decimais.|
 
-#### Tipos de dados locais
+### Tipos de dados locais
 
 - Declarados localmente (no programa). Podem ser utilizados somente no programa em que foram declarados;
 - Declaração utilizando a instrução *TYPES*.
@@ -67,8 +67,10 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM0Mzk2MzEsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE2Nzg5Nzk0NTgsLTExODEzNzUzMzZdfQ
 ==
 -->
