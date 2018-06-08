@@ -160,18 +160,18 @@ Pode-se utilizar *MOVE* para transferir o conteúdo de um objeto de dados para o
 MOVE gv_var1 TO gv_var2.
 gv_var2 = gv_var1.
 ```
-
+Se ambos os objetos de dados gv_var1 e gv_var2 tiverem tipos diferentes, então existe um **conflito de tipos**. Nesse caso, será automaticamente executada uma **conversão de tipo**, caso exista uma regra de conversão.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NzEyNTMsMTkxNzYxNDQ2OSwtMjA4Nz
-k0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4MDA3
-OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LDkxND
-Q5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3
-ODMwNyw3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLD
-E5NDQxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5
-MDk2MjM0XX0=
+eyJoaXN0b3J5IjpbLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OSwtMj
+A4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4
+MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LD
+kxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAx
+NzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNz
+MyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0x
+MTU5MDk2MjM0XX0=
 -->
