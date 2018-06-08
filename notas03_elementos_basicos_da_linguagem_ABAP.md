@@ -73,10 +73,10 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 ### Definição de objetos de dados variáveis
 
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig03.png)
+
 Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
 V ocê pode referenciar um objeto de dados já definido quando estiver definindo variáveis adicionais (suplemento *LIKE*).
-
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig03.png)
 
 ![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig04.png)
 
@@ -84,10 +84,10 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjIwNTE4NywtMTU5MjY4MDY0OSwtMT
-AxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUy
-NzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC
-0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0MDgwMTA4MCwtMjA5
-MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4NDE1MzUzLDI0MzIxOT
-czLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE4OTkzODExNTksLTE1OTI2ODA2NDksLT
+EwMTczNzgzMDcsNzE2NDM5NTI0LDU1NTgyOTc0NCwtMTg2NTE1
+MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0NTEsLTY3MDY3OTQ3My
+wtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC0yNDA4MDEwODAsLTIw
+OTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2ODQxNTM1MywyNDMyMT
+k3MywtMTE4MTM3NTMzNl19
 -->
