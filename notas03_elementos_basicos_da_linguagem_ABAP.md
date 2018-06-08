@@ -23,7 +23,8 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 |  D (date)| formato: AAAAMMDD, comprimento 8 (fixo) |
 | T (time) | formato: HHMMSS, comprimento 6 (fixo) |
 | I (integer) | comprimento 4 (fixo) |
-
+|F (float)|comprimento 8 (fixo)|
+|String||
 
 
 - 
@@ -34,5 +35,5 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIzMzAxMCwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbOTk3MzE3NTkyLC0xMTgxMzc1MzM2XX0=
 -->
