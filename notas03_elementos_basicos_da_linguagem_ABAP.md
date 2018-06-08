@@ -65,6 +65,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 > Para melhorar a legibilidade de seu programa, você não deve mais utilizar esta sintaxe obsoleta.
 
 ### Tipos de dados globais
+
 - Uma categoria de dados definida no *ABAP Dictionary* denomina- se global porque pode ser utilizada em todo o sistema (ou seja, em todo o sistema da SAP em questão): 
 
 - *Data element*, *Structure* ou *Table Type*.
@@ -80,8 +81,8 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMD
-YzMTcwNDIyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2
-MDkzNCwtMTk2ODQxNTM1MywyNDMyMTk3MywtMTE4MTM3NTMzNl
-19
+eyJoaXN0b3J5IjpbLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMT
+U5MDk2MjM0LDEwNjMxNzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYw
+Mzk3MiwtNTMwODYwOTM0LC0xOTY4NDE1MzUzLDI0MzIxOTczLC
+0xMTgxMzc1MzM2XX0=
 -->
