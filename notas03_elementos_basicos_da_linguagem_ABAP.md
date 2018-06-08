@@ -121,8 +121,9 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 - No Editor ABAP , selecione Ir para→ Elementos de texto → Símbolos de texto, ou:
 
-- Coloca-se o símbolo de texto em seu texto fonte, utilizando a sintaxe descrita acima, e clica duas vezes no respectivo ID. (Navegação para frente).
-Para traduzir os símbolos de texto de seu programa, selecione Ir para→Tradução no menu do Editor ABAP.
+- Coloca-se o símbolo de texto no código fonte, utilizando a sintaxe descrita acima, e clica duas vezes no respectivo ID. 
+
+- Para traduzir os símbolos de texto de seu programa, selecione Ir para→Tradução no menu do Editor ABAP.
 
 
 
@@ -134,7 +135,7 @@ Para traduzir os símbolos de texto de seu programa, selecione Ir para→Traduç
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIxMjY5NjcsMTkwMzIzMDI0NCwxNz
+eyJoaXN0b3J5IjpbLTE5NDg5NzMxNDMsMTkwMzIzMDI0NCwxNz
 M5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODEx
 NTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LD
 U1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAy
