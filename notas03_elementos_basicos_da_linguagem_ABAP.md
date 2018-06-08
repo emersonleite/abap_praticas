@@ -148,6 +148,8 @@ As categorias de dados locais apenas devem ser utilizadas exclusivamente no prog
 
 #### Atribuições de valor
 
+
+
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig08.png)
 
 
@@ -157,11 +159,11 @@ As categorias de dados locais apenas devem ser utilizadas exclusivamente no prog
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzYxNDQ2OSwtMjA4Nzk0NDE5NiwyMD
-kyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMw
-MjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMT
-g5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0
-Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NT
-ksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEw
-NjMxNzA0MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyODI4ODMyMzEsMTkxNzYxNDQ2OSwtMj
+A4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4
+MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LD
+kxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAx
+NzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNz
+MyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0x
+MTU5MDk2MjM0XX0=
 -->
