@@ -142,6 +142,8 @@ As vantagens das tipos de dados globais:
 3. Além da informação técnica, **as categorias de dados globais também podem conter informações semânticas** que correspondem às descrições empresariais dos objetos a serem definidos. **Elas também podem ser utilizadas para
 projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo do campo de entrada**).
 
+As categorias de dados locais apenas devem ser utilizadas exclusivamente no programa onde são definidas e se a informação semântica não for importante para a definição dos objetos de dados correspondentes.
+
 
 
 
@@ -154,11 +156,11 @@ projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3Mz
-kyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1
-OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNT
-U1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4
-ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0Mj
-IsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0x
-OTY4NDE1MzUzXX0=
+eyJoaXN0b3J5IjpbLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOT
+AzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LDkxNDQ5Mjcz
+MSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNy
+w3MTY0Mzk1MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQx
+MjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2Mj
+M0LDEwNjMxNzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3Miwt
+NTMwODYwOTM0XX0=
 -->
