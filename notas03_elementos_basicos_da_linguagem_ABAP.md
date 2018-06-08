@@ -130,6 +130,8 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 ### Comparação: Categorias de dados locais e globais
 
+![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig07.png)
+
 
 
 
@@ -141,11 +143,11 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDY2NzMwMCwxOTAzMjMwMjQ0LDE3Mz
-kyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1
-OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNT
-U1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4
-ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0Mj
-IsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0x
-OTY4NDE1MzUzXX0=
+eyJoaXN0b3J5IjpbNzU3MzA2MDc0LDE5MDMyMzAyNDQsMTczOT
+I4NzU0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5
+LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NT
+U4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4
+NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMi
+wtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5
+Njg0MTUzNTNdfQ==
 -->
