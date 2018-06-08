@@ -82,12 +82,19 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 
 - Pode-se utilizar o suplemento *VALUE* para atribuir previamente o valor de um objeto de dados elementar.
 
-> **Dica**: 
+> **Dica**: Na instrução *DATA*, você também tem a opção de indicar o comprimento entre parênteses, a seguir ao nome da variável, por exemplo:
+```abap
+DATA gv_myvar(15) TYPE c.
+DATA gv_myvar_p(4) TYPE p DECIMALS 2.
+```
+Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*.
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODg0MjQxMSwtMTg5OTM4MTE1OSwtMT
+eyJoaXN0b3J5IjpbLTk3MDM1MzAxOSwtMTg5OTM4MTE1OSwtMT
 U5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5
 NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MS
 wtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0
