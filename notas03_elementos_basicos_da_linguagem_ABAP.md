@@ -95,18 +95,22 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig05.png)
 
-- Utiliza-se litais para indicar valores fixos em programas
+- Utiliza-se litais para indicar valores fixos em programas;
+-  Existem literais numéricos (indicados sem aspas) e caracteres literais (indicados com aspas). A imagem abaixo mostra alguns exemplos de literais.
+- Defini-se constantes utilizando a instrução CONSTANTS. Seu tipo é definido de
+forma similar à definição de objetos de dados elementares. O suplemento VALUE é
+obrigatório para constantes. É assim que você define o valor das constantes.
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzMyMDQ5LDkxNDQ5MjczMSwtMTg5OT
-M4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1
-MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLT
-kyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMx
-NzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOT
-M0LC0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbMTU1MjgxMDU5MSw5MTQ0OTI3MzEsLTE4OT
+kzODExNTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5
+NTI0LDU1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC
+05MjAyODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYz
+MTcwNDIyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MD
+kzNCwtMTk2ODQxNTM1MywyNDMyMTk3MywtMTE4MTM3NTMzNl19
 
 -->
