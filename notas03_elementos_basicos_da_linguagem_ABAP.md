@@ -201,7 +201,12 @@ ELSE.
 ENDIF.
 ```
 ```abap
-CASE gv_
+CASE gv_carrid.
+	WHEN 'AA'.
+	*
+	WHEN 'LH'.
+	* Intruções
+	WHEN 'AA'.
 ```
  
 
@@ -217,7 +222,7 @@ CASE gv_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjYyMTU5NiwtMjUyMDE0MjAyLDExNz
+eyJoaXN0b3J5IjpbMTI3MjIxMTY4NywtMjUyMDE0MjAyLDExNz
 czNDc1NjcsMTM4NjU5MDExOCwtMTQxMTI1OTc0NSwxOTE3NjE0
 NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4NDQ5NS
 wtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Niw3MDUz
