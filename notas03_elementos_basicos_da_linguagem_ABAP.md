@@ -56,13 +56,11 @@ TYPES gty_c_type TYPE c LENGTH 8.
 TYPES gty_p_type TYPE p LENGTH 3 DECIMALS 2.
 ```
 
+> Dica:  Existe uma sintaxe alternativa para indicar o comprimento  com o suplemento LENGTH, que você encontrará frequentemente em programas mais antigos. Aqui, o comprimento é indicado entre parênteses
+imediatamente após o nome da categoria. Os exemplos incluem:
 
-
-
-
-> Nota: 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk1MDM2OSwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbMTExMjAzOTUzMiwtMTE4MTM3NTMzNl19
 -->
