@@ -16,7 +16,7 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 ## Tipos ABAP padrão (*standard data types*)
 
 - Divididos em dois grupos: tipos **completos** e **incompletos**.
-- 
+- Completos: eles já contêm uma especificação de comprimento fixa e específica de tipo.
 
 
 - 
@@ -27,5 +27,5 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTE0MTY2MCwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbLTg0MDIyMDgzLC0xMTgxMzc1MzM2XX0=
 -->
