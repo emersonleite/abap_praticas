@@ -17,9 +17,11 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 - Divididos em dois grupos: tipos **completos** e **incompletos**.
 - Completos: eles já contêm uma especificação de comprimento fixa e específica de tipo:
+- 
 |Standard Types|Descrição  |
 |--|--|
-|  D (data)|  |
+|  D (date)| formato: AAAAMMDD, comprimento 8 (fixo) |
+| T (time) |  |
 
 
 
@@ -31,6 +33,6 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkwNDg4OTcsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE1NjM5NTA4MTQsLTExODEzNzUzMzZdfQ
 ==
 -->
