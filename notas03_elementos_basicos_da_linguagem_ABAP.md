@@ -156,14 +156,13 @@ previamente atribuído um valor inicial específico de tipo, exceto se tiver sid
 
 Pode-se utilizar *MOVE* para transferir o conteúdo de um objeto de dados para outro objeto. As duas variantes abaixo tem o mesmo resultado.
 
-    enter code here
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzU3MjE4OSwxOTE3NjE0NDY5LC0yMD
+eyJoaXN0b3J5IjpbMTk2OTgwOTc4MCwxOTE3NjE0NDY5LC0yMD
 g3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4NDQ5NSwtMjk5Njgw
 MDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Niw3MDUzNDI4OTQsOT
 E0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3
