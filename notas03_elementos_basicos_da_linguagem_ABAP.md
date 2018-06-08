@@ -35,9 +35,11 @@ heX adecimal)|
 
 |Standard Types|Descrição  |
 |--|--|
-|||
-|||
-
+|C|Tipo para cadeia de caracteres ( C aractere) para a qual se deve indicar o
+comprimento fixo|
+|N||
+|X||
+|P||
 
 
 
@@ -53,5 +55,5 @@ heX adecimal)|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MzA0NDY5LC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbMTU0MTQ4NjIwNCwtMTE4MTM3NTMzNl19
 -->
