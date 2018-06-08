@@ -50,8 +50,10 @@ heX adecimal)|
 
 Exemplo:
 
+```abap
+REPORT...
+TYPES gty_c_type TYPE c LENGTH 8.
 ```
-`
 
 
 
@@ -59,6 +61,5 @@ Exemplo:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU1Mzc3NDIsLTExODEzNzUzMzZdfQ
-==
+eyJoaXN0b3J5IjpbODQ5MTkzNDc3LC0xMTgxMzc1MzM2XX0=
 -->
