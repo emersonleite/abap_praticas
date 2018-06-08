@@ -195,22 +195,23 @@ gv_length = STRLEN( gv_cityfrom ).
 IF 	gv_var > 0.
 * Instruções.
 ELSEIF gv_var = 0.
-* Instruções.
+*--> Instruções
 ELSE.
-* Instruções.
+*--> Instruções
 ENDIF.
 ```
 ```abap
 CASE gv_carrid.
 	WHEN 'AA'.
-	*--Instruções
+	*--> Instruções
 	WHEN 'LH'.
-	*--Instruções
+	*--> Instruções
 	WHEN OTHERS.
-	*--Instruções
-	ENDCASE.
-	
+	*--> Instruções
+ENDCASE.	
 ```
+
+
  
 
 
@@ -225,7 +226,7 @@ CASE gv_carrid.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzE4MzI4MCwxMjcyMjExNjg3LC0yNT
+eyJoaXN0b3J5IjpbMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNT
 IwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5
 NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC
 0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5
