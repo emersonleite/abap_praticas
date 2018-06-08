@@ -4,9 +4,16 @@ Uma descrição formal de uma variável é uma categoria de dados **(data type)*
 
 Pode-se usar tipos de dados nas situações a seguir:
 
-- *Definição de objetos de dados*
-A categoria de um objeto de dados define suas propriedades técnicas (e,
-possivelmente, também semânticas).
+1. *Definição de objetos de dados*:
+A categoria de um objeto de dados define suas propriedades técnicas (e, possivelmente, também semânticas).
+
+2. *Definição de parâmetros da interface:*
+O tipo de um parâmetro da interface determina o tipo do próprio parâmetro
+que é transferido quando se chama a unidade de modularização.
+
+3. 
+
+- 
 
 
 
@@ -14,6 +21,5 @@ possivelmente, também semânticas).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcxMjI0NjksLTExODEzNzUzMzZdfQ
-==
+eyJoaXN0b3J5IjpbMzYwNDkyMjUsLTExODEzNzUzMzZdfQ==
 -->
