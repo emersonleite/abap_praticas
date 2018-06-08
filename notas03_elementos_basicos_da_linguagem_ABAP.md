@@ -35,10 +35,9 @@ heX adecimal)|
 
 |Standard Types|Descrição  |
 |--|--|
-|C|Tipo para cadeia de caracteres ( C aractere) para a qual se deve indicar o
-comprimento fixo|
-|N||
-|X||
+|C|Tipo para cadeia de caracteres ( C aractere) para a qual se deve indicar o comprimento fixo|
+|N|Tipo para cadeia de caracteres numéricos (caractere N umérico) para a qual se deve indicar o comprimento fixo.|
+|X|T ipo para sequência de bytes (cadeia HeX adecimal) para a qual se deve indicar o comprimento fixo.|
 |P||
 
 
@@ -55,5 +54,5 @@ comprimento fixo|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTQ4NjIwNCwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbNzY4MjI2NTAxLC0xMTgxMzc1MzM2XX0=
 -->
