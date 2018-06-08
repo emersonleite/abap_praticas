@@ -76,6 +76,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 ![enter image description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
 
+![enter image description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
 
 
 
@@ -85,9 +86,9 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTYxNDAxOCw1NTU4Mjk3NDQsLTE4Nj
-UxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2Nzk0
-NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMiwtMjQwODAxMDgwLC
-0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5Njg0MTUzNTMsMjQz
-MjE5NzMsLTExODEzNzUzMzZdfQ==
+eyJoaXN0b3J5IjpbNzE2NDM5NTI0LDU1NTgyOTc0NCwtMTg2NT
+E1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0NTEsLTY3MDY3OTQ3
+MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC0yNDA4MDEwODAsLT
+IwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2ODQxNTM1MywyNDMy
+MTk3MywtMTE4MTM3NTMzNl19
 -->
