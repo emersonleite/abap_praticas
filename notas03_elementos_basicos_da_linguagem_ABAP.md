@@ -70,25 +70,11 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 - *Data element*, *Structure* ou *Table Type*.
 
 
-![Teste](https://picasaweb.google.com/108895071127265600144/6564737041114560833#6564737039031983554)
-
-![enter link description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
-
-![enter image description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
-
-![enter image description here](https://drive.google.com/file/d/18x4uNy-DL9waRyd-U9_16J7LJcQ7efZ-/view?usp=sharing)
-
-
-
-
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NDM5NTI0LDU1NTgyOTc0NCwtMTg2NT
-E1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0NTEsLTY3MDY3OTQ3
-MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC0yNDA4MDEwODAsLT
-IwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2ODQxNTM1MywyNDMy
-MTk3MywtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbMTM4MTA4Mjc3OCw3MTY0Mzk1MjQsNTU1OD
+I5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1
+MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLT
+I0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4
+NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
 -->
