@@ -33,6 +33,13 @@ heX adecimal)|
 
 - **Incompletos** - Não tem comprimento fixo. Quando utilizados precisam vir com o comprimento da variável discriminado.
 
+|Standard Types|Descrição  |
+|--|--|
+|||
+|||
+
+
+
 
 
 
@@ -46,6 +53,5 @@ heX adecimal)|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1NjY5MjYsLTExODEzNzUzMzZdfQ
-==
+eyJoaXN0b3J5IjpbNDg4MzA0NDY5LC0xMTgxMzc1MzM2XX0=
 -->
