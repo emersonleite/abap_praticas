@@ -106,8 +106,6 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 Um princípio muito importante no desenvolvimento ABAP é o **multilinguismo**. Isso significa que, quando são exibidos textos na interface de usuário, é levado em conta o idioma de logon do usuário atual.
 Para programas produtivos que devem ser executados com idiomas de logon distintos, a linguagem de programação ABAP fornece os **símbolos de texto** (*text symbols*).
 
-
-
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig06.png)
 
 
@@ -116,11 +114,11 @@ Para programas produtivos que devem ser executados com idiomas de logon distinto
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTI4NzU0Niw3MDUzNDI4OTQsOTE0ND
-kyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4
-MzA3LDcxNjQzOTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMT
-k0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkw
-OTYyMzQsMTA2MzE3MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOT
-cyLC01MzA4NjA5MzQsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTEx
-ODEzNzUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDM4MjI2OTAsMTczOTI4NzU0Niw3MD
+UzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgw
+NjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3NDQsLT
+E4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2
+Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMiwtMjQwODAxMD
+gwLC0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5Njg0MTUzNTMs
+MjQzMjE5NzNdfQ==
 -->
