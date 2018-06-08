@@ -144,7 +144,11 @@ projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
 
 As categorias de dados locais apenas devem ser utilizadas exclusivamente no programa onde são definidas e se a informação semântica não for importante para a definição dos objetos de dados correspondentes.
 
-### 
+### Instruções ABAP básicas
+
+#### Atribuições de valor
+
+
 
 
 
@@ -152,11 +156,11 @@ As categorias de dados locais apenas devem ser utilizadas exclusivamente no prog
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjEwNDc4NiwyMDkyNTEzNDMsLTE4Nj
-YzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1
-NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMT
-U5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5
-NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MS
-wtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0
-MDgwMTA4MF19
+eyJoaXN0b3J5IjpbLTIwODc5NDQxOTYsMjA5MjUxMzQzLC0xOD
+Y2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3
+NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTksLT
+E1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1NTgy
+OTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0NT
+EsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC0y
+NDA4MDEwODBdfQ==
 -->
