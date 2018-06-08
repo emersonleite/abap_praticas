@@ -89,15 +89,17 @@ DATA gv_myvar_p(4) TYPE p DECIMALS 2.
 ```
 Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*.
 
+Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão (incompleto) (comprimento 1 para os tipos C, Ne X, e comprimento 8 para o tipo P). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão C. Portanto, a instrução DATA gd_myvar. sem indicação de tipo e comprimento define uma variável do tipo C com comprimento 1.
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDM1MzAxOSwtMTg5OTM4MTE1OSwtMT
-U5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5
-NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MS
-wtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0
-MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4ND
-E1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbMTY2NDA4MTgxLC0xODk5MzgxMTU5LC0xNT
+kyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3
+NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC
+02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMiwtMjQw
+ODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5Njg0MT
+UzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZdfQ==
 -->
