@@ -132,8 +132,22 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig07.png)
 
-As categorias de dados locais só podem ser utilizadas no programa em que são definidas. As categorias de dados globais, ao contrário, podem ser utilizados em todo o sistema.
-As vantagnes das ti
+As categorias (tipos) de dados locais só podem ser utilizadas no programa em que são definidas. As categorias (tipos) de dados globais, ao contrário, podem ser utilizados em todo o sistema.
+As vantagens das tipos de dados globais:
+
+1 . A usabilidade dos tipos globais em todo o sistema aumenta a consistência do
+sistema e sua possibilidade de reutilização reduz a quantidade de atualização
+necessária.
+• No ABAP Dictionary, você pode gerar uma lista de utilizações para uma
+categoria de dados global. As listas de utilizações lista os objetos do
+Repositório que utilizam o tipo ou a categoria de dados em questão.
+• Além da informação técnica, as categorias de dados globais também podem
+conter informações semânticas que correspondem às descrições empresariais
+dos objetos a serem definidos. Elas também podem ser utilizadas para
+projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
+do campo de entrada).
+
+
 
 
 
@@ -145,11 +159,11 @@ As vantagnes das ti
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0ODYzMjksMTkwMzIzMDI0NCwxNzM5Mj
-g3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTks
-LTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1NT
-gyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0
-NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC
-0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2
-ODQxNTM1M119
+eyJoaXN0b3J5IjpbLTE5MzM0MDcyMjksMTkwMzIzMDI0NCwxNz
+M5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODEx
+NTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LD
+U1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAy
+ODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwND
+IyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwt
+MTk2ODQxNTM1M119
 -->
