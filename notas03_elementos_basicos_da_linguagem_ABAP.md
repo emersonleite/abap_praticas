@@ -48,12 +48,17 @@ heX adecimal)|
 - Declarados localmente (no programa). Podem ser utilizados somente no programa em que foram declarados;
 - Declaração utilizando a instrução *TYPES*.
 
+Exemplo:
+
+```
+`
+
 
 
 > Nota: 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkwNDUyMzgsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE3NjU1Mzc3NDIsLTExODEzNzUzMzZdfQ
 ==
 -->
