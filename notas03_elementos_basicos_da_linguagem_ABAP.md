@@ -184,9 +184,9 @@ A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicia
 
 > **ATENÇÃO:** Parênteses e operadores são palavras- chave ABAP e, portanto, precisam ser separados das outras Palavras por, pelo menos, um espaço.
 
-A instrução a seguir fornece o comprimento de uma *string*. 
+A instrução *STRLEN* a seguir fornece o comprimento de uma *string*. 
 ```abap
-gv_length = 
+gv_length = STRLEN( gv_cityfrom ).
 ```
  
  
@@ -203,11 +203,11 @@ gv_length =
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0MzkwODMsMTM4NjU5MDExOCwtMT
-QxMTI1OTc0NSwxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1
-MTM0MywtMTg2NjM4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyND
-QsMTczOTI4NzU0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5
-MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOT
-UyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwt
-OTIwMjg4NDUxXX0=
+eyJoaXN0b3J5IjpbMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xND
+ExMjU5NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUx
+MzQzLC0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NC
+wxNzM5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkz
+ODExNTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NT
+I0LDU1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05
+MjAyODg0NTFdfQ==
 -->
