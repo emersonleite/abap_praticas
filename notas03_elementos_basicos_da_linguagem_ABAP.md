@@ -31,6 +31,9 @@ heX adecimal)|
 |DECFLOAT16|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. comprimento de 8 bytes com 16 casas decimais. A partir da versão 7.0 EhP2 |
 |DECFLOAT34|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. Comprimento de 16 bytes com 34 casas decimais. A partir da versão 7.0 EhP2 |
 
+- **Incompletos** - Não tem comprimento fixo. Quando utilizados precisam vir com o comprimento da variável discriminado.
+
+
 
 
 
@@ -43,6 +46,6 @@ heX adecimal)|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ0NjUxMTEsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE3NjQ1NjY5MjYsLTExODEzNzUzMzZdfQ
 ==
 -->
