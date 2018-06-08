@@ -148,18 +148,20 @@ As categorias de dados locais apenas devem ser utilizadas exclusivamente no prog
 
 #### Atribuições de valor
 
+Quando o programa é iniciado, o contexto do programa é carregado na área de memória do servidor de aplicação eé disponibilizada memória para os objetos de dados definidos no programa. A todos os objetos de dados elementares é
+previamente atribuído um valor inicial específico de tipo, exceto se tiver sido definido um valor diferente por meio do suplemento *VALUE.*
 
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig08.png)
 
-
+Pode-se utilizar *MOVE* para tra
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI4ODMyMzEsMTkxNzYxNDQ2OSwtMj
+eyJoaXN0b3J5IjpbLTEzOTA0NTQzMTUsMTkxNzYxNDQ2OSwtMj
 A4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4
 MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LD
 kxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAx
