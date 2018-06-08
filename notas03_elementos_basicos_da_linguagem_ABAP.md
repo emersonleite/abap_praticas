@@ -38,22 +38,12 @@ heX adecimal)|
 |C|Tipo para cadeia de caracteres ( **C**aractere) para a qual se deve indicar o comprimento fixo|
 |N|Tipo para cadeia de caracteres numéricos (caractere **N**umérico) para a qual se deve indicar o comprimento fixo.|
 |X|Tipo para sequência de bytes (cadeia He**X**adecimal) para a qual se deve indicar o comprimento fixo.|
-|P|Tipo para número compactado (número Com**P**actado) para a qual se deve indicar o comprimento fixo. |
-
-
-
-
-
-
-
-- 
-
-
+|P|Tipo para número compactado (número Com**P**actado) para a qual se deve indicar o comprimento fixo. Na definição de um número compactado, também é possível indicar o número de casas decimais.|
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEyNDQ5NzQsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTE4NjE1Njc0NTgsLTExODEzNzUzMzZdfQ
 ==
 -->
