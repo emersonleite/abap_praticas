@@ -95,18 +95,18 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig05.png)
 
-
+- Utiliza-se litais para indicar valores fixos em programas
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzOTMxMDIsOTE0NDkyNzMxLC0xOD
-k5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQz
-OTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OS
-wtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2
-MzE3MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4Nj
-A5MzQsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZd
-fQ==
+eyJoaXN0b3J5IjpbMjA4NzMyMDQ5LDkxNDQ5MjczMSwtMTg5OT
+M4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1
+MjQsNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLT
+kyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMx
+NzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOT
+M0LC0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+
 -->
