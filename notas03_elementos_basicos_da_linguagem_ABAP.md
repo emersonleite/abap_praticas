@@ -184,8 +184,10 @@ A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicia
 
 > **ATENÇÃO:** Parênteses e operadores são palavras- chave ABAP e, portanto, precisam ser separados das outras Palavras por, pelo menos, um espaço.
 
-A instrução a seguir fornece o comprimeno aualeeeeeepppp do con
- 
+A instrução a seguir fornece o comprimento de uma *string*. 
+```abap
+gv_lengt
+```
  
  
 
@@ -201,11 +203,11 @@ A instrução a seguir fornece o comprimeno aualeeeeeepppp do con
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzc2ODUxOSwtMTQxMTI1OTc0NSwxOT
-E3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4
-NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Ni
-w3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTky
-NjgwNjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3ND
-QsLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC02
-NzA2Nzk0NzNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTI2OTkzMDIsLTE0MTEyNTk3NDUsMT
+kxNzYxNDQ2OSwtMjA4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYz
+ODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1ND
+YsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5
+MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5Nz
+Q0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MSwt
+NjcwNjc5NDczXX0=
 -->
