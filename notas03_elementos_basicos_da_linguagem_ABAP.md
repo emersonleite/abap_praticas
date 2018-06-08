@@ -166,9 +166,12 @@ A instrução *ADD* adiciona o valor especificado à variável:
 
 ```abap
 ADD 1 TO gv_counter.
-
-
 ```
+A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicial **relacionado ao tipo**.
+
+
+
+
 
 
 
@@ -177,7 +180,7 @@ ADD 1 TO gv_counter.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDEyNjQ5MiwtMTQxMTI1OTc0NSwxOT
+eyJoaXN0b3J5IjpbLTM3MjA5MTY0MSwtMTQxMTI1OTc0NSwxOT
 E3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4
 NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Ni
 w3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTky
