@@ -71,14 +71,19 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 ![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/img/fig02.png)
 
-### Tipos de dados globais
+### Definição de objetos de dados variáveis
+
+	Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
+V ocê pode referenciar um objeto de dados já definido quando estiver definindo variáveis adicionais (suplemento *LIKE*).
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTAwMTE2Niw3MTY0Mzk1MjQsNTU1OD
-I5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1
-MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLT
-I0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0xOTY4
-NDE1MzUzLDI0MzIxOTczLC0xMTgxMzc1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE3NjUyODYwNTksNzE2NDM5NTI0LDU1NT
+gyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0
+NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC
+0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2
+ODQxNTM1MywyNDMyMTk3MywtMTE4MTM3NTMzNl19
 -->
