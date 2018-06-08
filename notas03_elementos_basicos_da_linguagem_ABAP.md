@@ -113,7 +113,8 @@ Cada um dos símbolos de texto pertence a um programa específico e pode ser uti
 Se o programa acessar um símbolo de texto ao ser executado, o sistema considerará automaticamente o idioma  de logon do usuário e fornecerá o texto nesse idioma.
 Um símbolo de texto é identificado por meio de um **ID alfanumérico de três caracteres xxx** .
 
-- Para utilização de *text symbols*, pode-se utilizar um TEXT-xxx , onde xxx representa o ID do símbolo de texto de três caracteres
+- Para utilização de *text symbols*, pode-se utilizar um ***TEXT-xxx*** , onde xxx representa o ID do símbolo de texto de três caracteres. 
+- A seguinte sintaxe também pode-se ser utilizada: : '...'(xxx) . Aqui, '...' deve ser o texto do símbolo de texto no idioma original do programa.
 
 
 
@@ -124,7 +125,7 @@ Um símbolo de texto é identificado por meio de um **ID alfanumérico de três 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTUwODM2MywxOTAzMjMwMjQ0LDE3Mz
+eyJoaXN0b3J5IjpbLTUxNTY1NDQ3NywxOTAzMjMwMjQ0LDE3Mz
 kyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1
 OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNT
 U1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4
