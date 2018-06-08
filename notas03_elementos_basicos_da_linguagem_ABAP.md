@@ -45,9 +45,12 @@ heX adecimal)|
 
 #### Tipos de dados locais
 
+- Declarados localmente (no programa). Po;
+- 
+
 > Nota: 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDkzMzQ2MiwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbLTU0MzQ1MjQ5LC0xMTgxMzc1MzM2XX0=
 -->
