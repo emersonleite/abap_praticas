@@ -80,11 +80,14 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig04.png)
 
-- Pode-se utilizar o suplemento *VALUE*
+- Pode-se utilizar o suplemento *VALUE* para atribuir previamente o valor de um objeto de dados elementar.
+
+> **Dica**: 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTg5NTExNCwtMTg5OTM4MTE1OSwtMT
+eyJoaXN0b3J5IjpbMTg0ODg0MjQxMSwtMTg5OTM4MTE1OSwtMT
 U5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNTU1ODI5
 NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4ODQ1MS
 wtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0MjIsLTI0
