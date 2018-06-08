@@ -62,13 +62,13 @@ imediatamente após o nome da categoria. Os exemplos incluem:
 TYPES gty_c_type(3) TYPE c.
 TYPES gty_p_type(3) TYPE p DECIMALS 2.
 ```
-
+> Para melhorar a legibilidade de seu programa, você não deve mais utilizar esta sintaxe obsoleta.
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk3Mzc4OTAsLTExODEzNzUzMzZdfQ
+eyJoaXN0b3J5IjpbLTEzODM0Mzk2MzEsLTExODEzNzUzMzZdfQ
 ==
 -->
