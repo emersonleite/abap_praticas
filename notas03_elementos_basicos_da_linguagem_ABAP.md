@@ -114,8 +114,8 @@ Se o programa acessar um símbolo de texto ao ser executado, o sistema considera
 Um símbolo de texto é identificado por meio de um **ID alfanumérico de três caracteres xxx** .
 
 - Para utilização de *text symbols*, pode-se utilizar um ***TEXT-xxx*** , onde xxx representa o ID do símbolo de texto de três caracteres. 
-- A seguinte sintaxe também pode-se ser utilizada: : **'...'(xxx)** . Aqui, **'...'** deve ser o texto do símbolo de texto no idioma original do programa.
 
+- A seguinte sintaxe também pode-se ser utilizada: : **'...'(xxx)** . Aqui, **'...'** deve ser o texto do símbolo de texto no idioma original do programa.
 
 Existem duas opções para definir símbolos de texto para seu programa:
 
@@ -128,6 +128,9 @@ Existem duas opções para definir símbolos de texto para seu programa:
 >**Dica:**
 >Os elementos de texto também precisam ser ativados. 
 
+### Comparação: Categorias de dados locais e globais
+
+
 
 
 
@@ -138,11 +141,11 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIxNjQ3NjIsMTkwMzIzMDI0NCwxNz
-M5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODEx
-NTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LD
-U1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAy
-ODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwND
-IyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwt
-MTk2ODQxNTM1M119
+eyJoaXN0b3J5IjpbMjAxMDY2NzMwMCwxOTAzMjMwMjQ0LDE3Mz
+kyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1
+OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNT
+U1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4
+ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0Mj
+IsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0x
+OTY4NDE1MzUzXX0=
 -->
