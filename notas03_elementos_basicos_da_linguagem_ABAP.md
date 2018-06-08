@@ -28,8 +28,7 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 | I (integer) | comprimento 4 (fixo) |
 |F (float)|comprimento 8 (fixo)|
 |STRING|T ipo para cadeia de caracteres com comprimento dinâmico|
-|XSTRING|Tipo para sequência de bytes com comprimento dinâmico (Cadeia
-heX adecimal)|
+|XSTRING|Tipo para sequência de bytes com comprimento dinâmico (Cadeia heX adecimal)|
 |DECFLOAT16|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. comprimento de 8 bytes com 16 casas decimais. A partir da versão 7.0 EhP2 |
 |DECFLOAT34|**DEC**imal **FLOAT**ing point - Números com mantissa e expoente. Comprimento de 16 bytes com 34 casas decimais. A partir da versão 7.0 EhP2 |
 
@@ -83,9 +82,9 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOT
-IwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3
-MDQyMiwtMjQwODAxMDgwLC0yMDkzNjAzOTcyLC01MzA4NjA5Mz
-QsLTE5Njg0MTUzNTMsMjQzMjE5NzMsLTExODEzNzUzMzZdfQ==
-
+eyJoaXN0b3J5IjpbNTU1ODI5NzQ0LC0xODY1MTUyNzMyLDE5ND
+QxMjA0NTksLTkyMDI4ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2
+MjM0LDEwNjMxNzA0MjIsLTI0MDgwMTA4MCwtMjA5MzYwMzk3Mi
+wtNTMwODYwOTM0LC0xOTY4NDE1MzUzLDI0MzIxOTczLC0xMTgx
+Mzc1MzM2XX0=
 -->
