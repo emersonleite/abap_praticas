@@ -103,7 +103,9 @@ Também aqui é recomendável que, em nome da legibilidade, você utilize o supl
 >**Dica:**
 >Se possível, evite completamente os literais ao utilizar instruções. Em vez disso, utilize constantes e símbolos de texto. Isso facilita muito a atualização de seu programa
 
-Um princípio muito importante no desenvolvimento ABAP é o multilinguismo. Isso significa que, quando são exibidos textos na interface de usuário, é levado em conta o idioma de logon do usuário atual.
+Um princípio muito importante no desenvolvimento ABAP é o **multilinguismo**. Isso significa que, quando são exibidos textos na interface de usuário, é levado em conta o idioma de logon do usuário atual.
+Para programas produtivos que devem ser executados com idiomas de logon distintos, a linguagem de programação ABAP fornece os **símbolos de texto**.
+
 
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig06.png)
@@ -114,7 +116,7 @@ Um princípio muito importante no desenvolvimento ABAP é o multilinguismo. Isso
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjExMzg2OSw3MDUzNDI4OTQsOTE0ND
+eyJoaXN0b3J5IjpbLTkxMTA0NTQ1OSw3MDUzNDI4OTQsOTE0ND
 kyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgwNjQ5LC0xMDE3Mzc4
 MzA3LDcxNjQzOTUyNCw1NTU4Mjk3NDQsLTE4NjUxNTI3MzIsMT
 k0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2Nzk0NzMsLTExNTkw
