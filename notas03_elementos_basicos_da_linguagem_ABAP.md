@@ -111,7 +111,9 @@ Para programas produtivos que devem ser executados com idiomas de logon distinto
 Cada um dos símbolos de texto pertence a um programa específico e pode ser utilizado diretamente nele. Eles são armazenados fora do código fonte em seu próprio objeto de repositório, o **pool de texto** do programa.
 
 Se o programa acessar um símbolo de texto ao ser executado, o sistema considerará automaticamente o idioma  de logon do usuário e fornecerá o texto nesse idioma.
-Um símbolo de texto é identificado por meio de um ID alfanumérico de três caracteres **xxx** .
+Um símbolo de texto é identificado por meio de um **ID alfanumérico de três caracteres xxx** .
+
+
 
 
 
@@ -120,11 +122,11 @@ Um símbolo de texto é identificado por meio de um ID alfanumérico de três ca
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0NTQ0NTYsMTczOTI4NzU0Niw3MD
-UzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgw
-NjQ5LC0xMDE3Mzc4MzA3LDcxNjQzOTUyNCw1NTU4Mjk3NDQsLT
-E4NjUxNTI3MzIsMTk0NDEyMDQ1OSwtOTIwMjg4NDUxLC02NzA2
-Nzk0NzMsLTExNTkwOTYyMzQsMTA2MzE3MDQyMiwtMjQwODAxMD
-gwLC0yMDkzNjAzOTcyLC01MzA4NjA5MzQsLTE5Njg0MTUzNTMs
-MjQzMjE5NzNdfQ==
+eyJoaXN0b3J5IjpbMTkwMzIzMDI0NCwxNzM5Mjg3NTQ2LDcwNT
+M0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1OTI2ODA2
+NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1NTgyOTc0NCwtMT
+g2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAyODg0NTEsLTY3MDY3
+OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwNDIyLC0yNDA4MDEwOD
+AsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwtMTk2ODQxNTM1Mywy
+NDMyMTk3M119
 -->
