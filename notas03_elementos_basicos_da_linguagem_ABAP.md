@@ -27,7 +27,7 @@ O tipo de um campo de entrada/saída pode fornecer outras informações além da
 |STRING|T ipo para cadeia de caracteres com comprimento dinâmico - 1 a 65535 bytes|
 |XSTRING|Tipo para sequência de bytes com comprimento dinâmico (Cadeia
 heX adecimal)- 1 a 65535 bytes|
-|DECFLOAT16||
+|DECFLOAT16|Números com mantissa e expoente. comprimento de 8 bytes |
 
 
 
@@ -39,5 +39,5 @@ heX adecimal)- 1 a 65535 bytes|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODg4MjkzMSwtMTE4MTM3NTMzNl19
+eyJoaXN0b3J5IjpbMTc3MDAwMzg5OCwtMTE4MTM3NTMzNl19
 -->
