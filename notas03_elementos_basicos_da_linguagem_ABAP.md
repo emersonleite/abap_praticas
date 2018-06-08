@@ -126,7 +126,7 @@ Existem duas opções para definir símbolos de texto para seu programa:
 - Para traduzir os símbolos de texto de seu programa, selecione Ir para→Tradução no menu do Editor ABAP.
 
 >**Dica:**
->Os *texts symbols*
+>Os elementos de texto também precisam ser ativados. 
 
 
 
@@ -138,11 +138,11 @@ Existem duas opções para definir símbolos de texto para seu programa:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQ5ODEwNSwxOTAzMjMwMjQ0LDE3Mz
-kyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMSwtMTg5OTM4MTE1
-OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3MTY0Mzk1MjQsNT
-U1ODI5NzQ0LC0xODY1MTUyNzMyLDE5NDQxMjA0NTksLTkyMDI4
-ODQ1MSwtNjcwNjc5NDczLC0xMTU5MDk2MjM0LDEwNjMxNzA0Mj
-IsLTI0MDgwMTA4MCwtMjA5MzYwMzk3MiwtNTMwODYwOTM0LC0x
-OTY4NDE1MzUzXX0=
+eyJoaXN0b3J5IjpbLTE2MjIxNjQ3NjIsMTkwMzIzMDI0NCwxNz
+M5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODEx
+NTksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LD
+U1NTgyOTc0NCwtMTg2NTE1MjczMiwxOTQ0MTIwNDU5LC05MjAy
+ODg0NTEsLTY3MDY3OTQ3MywtMTE1OTA5NjIzNCwxMDYzMTcwND
+IyLC0yNDA4MDEwODAsLTIwOTM2MDM5NzIsLTUzMDg2MDkzNCwt
+MTk2ODQxNTM1M119
 -->
