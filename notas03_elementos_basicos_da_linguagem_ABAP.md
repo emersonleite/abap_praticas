@@ -75,7 +75,7 @@ TYPES gty_p_type(3) TYPE p DECIMALS 2.
 
 ![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig03.png)
 
-Os objetos de dados são sempre definidos com a palavra- chave *DATA*. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
+**Os objetos de dados são sempre definidos com a palavra- chave *DATA***. Você pode utilizar um ABAP do tipo padrão, local ou global para atribuir o tipo a um objeto de dados.
 V ocê pode referenciar um objeto de dados já definido quando estiver definindo variáveis adicionais (suplemento *LIKE*).
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig04.png)
@@ -88,7 +88,7 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 DATA gv_myvar(15) TYPE c.
 DATA gv_myvar_p(4) TYPE p DECIMALS 2.
 ```
-Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*.
+Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*. Essa sintaxe está o
 
 - Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão (incompleto) (comprimento 1 para os tipos **C**, **N** e **X**,**** e comprimento 8 para o tipo **P**). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão **C.** Portanto, a instrução *DATA* *gd_myvar*. sem indicação de tipo e comprimento define uma variável do tipo **C** com comprimento 1.
 
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDExNzMyNjcsMTM3MzU1MjU3OSwyMT
-M2MzA2NDMyLDEyNzIyMTE2ODcsLTI1MjAxNDIwMiwxMTc3MzQ3
-NTY3LDEzODY1OTAxMTgsLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OS
-wtMjA4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5
-OTY4MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyOD
-k0LDkxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwt
-MTAxNzM3ODMwN119
+eyJoaXN0b3J5IjpbNTAyODM4Njk3LC0xNTAxMTczMjY3LDEzNz
+M1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNTIwMTQy
+MDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5NzQ1LD
+E5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC0xODY2
+Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3NT
+Q2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1
+OTI2ODA2NDldfQ==
 -->
