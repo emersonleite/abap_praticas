@@ -202,7 +202,10 @@ ramificações). Se nenhum aida assim não for cumprida, será executada a ramif
 
 2. Pode-se utilizar a instrução ***CASE*** para se distinguir claramente os casos. Nesse caso, O conteúdo do campo indicado na parte ***CASE*** é comparado com os objetos de dados listados nas ramificações ***WHEN***, para ver se eles coincidem. e. Se nenhuma comparação tiver êxito, o sistema executará a ramificação ***OTHERS***, se existir. Exceto no caso da primeira ramificação ***WHEN***, todos os outros suplementos são opcionais.
 
-> Dica:
+> **Dica:**: 
+> Para implementar verificações de semelhança entre um campo e diferentes valores, use a construção ***CASE*** em vez de ***IF,*** já que ela é mais transparente e tem melhor performance.
+
+
 
 ```abap
 IF 	gv_var > 0.
@@ -239,11 +242,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM5NjMxNzMsODIzNjYzODE0LDE2NT
-U1MTE0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTcz
-MjY3LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC
-0yNTIwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDEx
-MjU5NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMz
-QzLC0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwx
-NzM5Mjg3NTQ2XX0=
+eyJoaXN0b3J5IjpbLTYwNDEwMjA0OF19
 -->
