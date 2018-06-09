@@ -255,7 +255,9 @@ ENDCASE.
 
 - Exemplos abaixo:
 
+![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig11.png?raw=true)
 
+- 
  
 
 
@@ -270,5 +272,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTE5MDQ0XX0=
+eyJoaXN0b3J5IjpbLTgxODU5MjY5Nl19
 -->
