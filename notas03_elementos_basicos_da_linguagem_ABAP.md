@@ -234,8 +234,8 @@ ENDCASE.
 
 - Com a utilização de ***AND*** ou ***OR*** para ligação entre sentenças, utiliza-se parenteses.  
 
- #### Loops
- - 
+ #### *Loops*
+ - Existem quatro tipos de *loops*.
 
 
  
@@ -252,6 +252,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzcxNzU2NCwtMTg5Njk1OTc0OCwtMT
+eyJoaXN0b3J5IjpbMTg3OTc4Njk3OCwtMTg5Njk1OTc0OCwtMT
 E5MjIxMjg4OCwtNjA0MTAyMDQ4XX0=
 -->
