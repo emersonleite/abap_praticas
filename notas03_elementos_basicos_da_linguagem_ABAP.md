@@ -241,9 +241,10 @@ ENDCASE.
  - O campo de sistema ***SY-INDEX***, contém o *loops* atual para *loops* ***DO*** e ***WHILE***.
 
 1. *Loop* ***DO - ENDDO*** - controlado por índice:
---Executado continumante até que seja calcelado com ***EXIT***. Pode-se indicar o número de *loops* que se quer. 
+-- Executado continumante até que seja calcelado com ***EXIT***. Pode-se indicar o número de *loops* que se quer. 
 
-2. Loop WHILE-ENDWHIL
+2. *Loop* ***WHILE-ENDWHILE*** - controlado por cabeçalho:
+-- 
 - 
 
 
@@ -261,5 +262,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Nzg1NzY3Ml19
+eyJoaXN0b3J5IjpbODE3MTk3MDIyXX0=
 -->
