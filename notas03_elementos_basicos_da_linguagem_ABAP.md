@@ -88,9 +88,9 @@ V ocê pode referenciar um objeto de dados já definido quando estiver definindo
 DATA gv_myvar(15) TYPE c.
 DATA gv_myvar_p(4) TYPE p DECIMALS 2.
 ```
-Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*. Essa sintaxe está o
+Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*. Essa sintaxe está obsoleta. 
 
-- Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão (incompleto) (comprimento 1 para os tipos **C**, **N** e **X**,**** e comprimento 8 para o tipo **P**). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão **C.** Portanto, a instrução *DATA* *gd_myvar*. sem indicação de tipo e comprimento define uma variável do tipo **C** com comprimento 1.
+- **Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão** (incompleto) (comprimento 1 para os tipos **C**, **N** e **X**,**** e comprimento 8 para o tipo **P**). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão **C.** **Portanto, a instrução *DATA* *gd_myvar***. sem indicação de tipo e comprimento **define uma variável do tipo C** com comprimento 1.
 
 ### Literais, constantes e símbolos de texto
 
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyODM4Njk3LC0xNTAxMTczMjY3LDEzNz
-M1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNTIwMTQy
-MDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5NzQ1LD
-E5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC0xODY2
-Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3NT
-Q2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1
-OTI2ODA2NDldfQ==
+eyJoaXN0b3J5IjpbMTUxOTI0NzAzNSwtMTUwMTE3MzI2NywxMz
+czNTUyNTc5LDIxMzYzMDY0MzIsMTI3MjIxMTY4NywtMjUyMDE0
+MjAyLDExNzczNDc1NjcsMTM4NjU5MDExOCwtMTQxMTI1OTc0NS
+wxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2
+NjM4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4Nz
+U0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0x
+NTkyNjgwNjQ5XX0=
 -->
