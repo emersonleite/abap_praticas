@@ -263,7 +263,8 @@ ENDCASE.
 
 - Utiliza-se a instrução ***MESSAGE***;
 - Indicar o numero da mensagem (3 dígitos) e a classe da mensagem;
-- 
+- Indicar o tipo da mensagem, com letra antes dos três dígitos.
+- Utiloizar o suplemento
 
 
 
@@ -278,5 +279,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ5NTExLC0xNDc0MzY2ODQ3XX0=
+eyJoaXN0b3J5IjpbLTEzODc3NTQ5OTEsLTE0NzQzNjY4NDddfQ
+==
 -->
