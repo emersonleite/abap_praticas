@@ -262,10 +262,15 @@ ENDCASE.
  #### Mensagens interativas
 
 - Utiliza-se a instrução ***MESSAGE***;
+
 - Indicar o numero da mensagem (3 dígitos) e a classe da mensagem;
+
 - Indicar o tipo da mensagem, com letra antes dos três dígitos.
-- Utiloizar o suplemento ***WITH*** se houver valores a indicar. Esse valores aparecerão no corpo da mensagem.
-- E
+
+- Utilizar o suplemento ***WITH*** se houver valores a indicar. Esse valores aparecerão no corpo da mensagem.
+
+- Exemplo abaixo:
+![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig12.png?raw=true)
 
 
 
@@ -280,5 +285,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MTIyNzU0LC0xNDc0MzY2ODQ3XX0=
+eyJoaXN0b3J5IjpbMTkzMzQ5NDg3OCwtMTQ3NDM2Njg0N119
 -->
