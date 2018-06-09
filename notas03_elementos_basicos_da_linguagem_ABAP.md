@@ -261,6 +261,8 @@ ENDCASE.
  
  #### Mensagens interativas
 
+- Instrução ME
+
 
 
 
@@ -275,5 +277,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODg4ODA4LC0xNDc0MzY2ODQ3XX0=
+eyJoaXN0b3J5IjpbLTY4MTQ1MjEyNSwtMTQ3NDM2Njg0N119
 -->
