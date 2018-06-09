@@ -198,7 +198,10 @@ Novamente, o resto precisa ser separado por, pelo menos, um espaço.
 
 1. Na construção ***IF***, você pode definir qualquer expressão lógica;
  Se a condição do ***IF*** não for cumprida, será verificada a condição indicada na ramificação ***ELSEIF*** seguinte (podem existir várias
-ramificações). Se nenhum aida assim não for cumprida, 
+ramificações). Se nenhum aida assim não for cumprida, será executada a ramificação ***ELSE*** - caso exista. As ramificações ***ELSEIF*** e ***ELSE*** são opcionais.
+
+2. 
+
 
 ```abap
 IF 	gv_var > 0.
@@ -235,11 +238,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMjk0NjgxLDgyMzY2MzgxNCwxNjU1NT
-ExNDA4LDE0MTkwNTYwODUsLTIwODYzODk1MSwtMTUwMTE3MzI2
-NywxMzczNTUyNTc5LDIxMzYzMDY0MzIsMTI3MjIxMTY4NywtMj
-UyMDE0MjAyLDExNzczNDc1NjcsMTM4NjU5MDExOCwtMTQxMTI1
-OTc0NSwxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0My
-wtMTg2NjM4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTcz
-OTI4NzU0Nl19
+eyJoaXN0b3J5IjpbMTYwODU4NjE2MCw4MjM2NjM4MTQsMTY1NT
+UxMTQwOCwxNDE5MDU2MDg1LC0yMDg2Mzg5NTEsLTE1MDExNzMy
+NjcsMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNzIyMTE2ODcsLT
+I1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAxMTgsLTE0MTEy
+NTk3NDUsMTkxNzYxNDQ2OSwtMjA4Nzk0NDE5NiwyMDkyNTEzND
+MsLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3
+MzkyODc1NDZdfQ==
 -->
