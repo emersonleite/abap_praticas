@@ -90,15 +90,15 @@ DATA gv_myvar_p(4) TYPE p DECIMALS 2.
 ```
 Também aqui é recomendável que, em nome da legibilidade, você utilize o suplemento *LENGTH*. Essa sintaxe está obsoleta. 
 
-- **Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão** (incompleto) (comprimento 1 para os tipos **C**, **N** e **X**,**** e comprimento 8 para o tipo **P**). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão **C.** **Portanto, a instrução *DATA* *gd_myvar***. sem indicação de tipo e comprimento **define uma variável do tipo C** com comprimento 1.
+- **Caso a indicação de comprimento não exista na definição de uma variável, será utilizado um comprimento proposto para o tipo padrão** (incompleto) (comprimento 1 para os tipos **C**, **N** e **X**, e comprimento 8 para o tipo **P**). Se a indicação de comprimento não existir de todo, utiliza- se o tipo padrão **C.** **Portanto, a instrução *DATA* *gd_myvar***, sem indicação de tipo e comprimento **define uma variável do tipo C** com comprimento 1.
 
 ### Literais, constantes e símbolos de texto
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig05.png)
 
-- Utiliza-se litais para indicar valores fixos em programas;
+- Utiliza-se literais para indicar valores fixos em programas;
 -  Existem literais numéricos (indicados sem aspas) e caracteres literais (indicados com aspas). A imagem abaixo mostra alguns exemplos de literais.
-- Defini-se constantes utilizando a instrução *CONSTANTS*. **Seu tipo é definido de forma similar à definição de objetos de dados elementares**. O suplemento *VALUE* é obrigatório para constantes. É assim que você define o valor das constantes.
+- Defini-se constantes utilizando a instrução *CONSTANTS*. **Seu tipo é definido de forma similar à definição de objetos de dados elementares**. O suplemento ***VALUE*** é obrigatório para constantes. É assim que você define o valor das constantes.
 
 >**Dica:**
 >Se possível, evite completamente os literais ao utilizar instruções. Em vez disso, utilize constantes e símbolos de texto. Isso facilita muito a atualização de seu programa
@@ -226,7 +226,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTI0NzAzNSwtMTUwMTE3MzI2NywxMz
+eyJoaXN0b3J5IjpbLTUxMzk1NzMzNCwtMTUwMTE3MzI2NywxMz
 czNTUyNTc5LDIxMzYzMDY0MzIsMTI3MjIxMTY4NywtMjUyMDE0
 MjAyLDExNzczNDc1NjcsMTM4NjU5MDExOCwtMTQxMTI1OTc0NS
 wxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2
