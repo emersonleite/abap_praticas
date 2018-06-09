@@ -245,6 +245,10 @@ ENDCASE.
 
 2. *Loop* ***WHILE-ENDWHILE*** - controlado por cabeçalho:
 -- Executado até que a condição indicada não seja mais cumprida. Essa condição é sempre verificada antes da execução do bloco.
+
+3. *Loops* de leitura:
+-- SELECT para ler entradas 
+
 - 
 
 
@@ -262,5 +266,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjI5NjM5NV19
+eyJoaXN0b3J5IjpbMTYzNjU2MjM0OV19
 -->
