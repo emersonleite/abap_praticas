@@ -236,7 +236,10 @@ ENDCASE.
 
  #### *Loops*
  - Existem quatro tipos de *loops*.
- - O campo de sistema S
+ 
+ - O campo de sistema ***SY-INDEX***, contém o *loops* atual para *loops* ***DO*** e ***WHILE***.
+
+- 
 
 
  
@@ -253,5 +256,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzA2NTk3Nl19
+eyJoaXN0b3J5IjpbMTYyODM5ODA4OF19
 -->
