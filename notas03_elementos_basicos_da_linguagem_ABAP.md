@@ -205,6 +205,8 @@ ramificações). Se nenhum aida assim não for cumprida, será executada a ramif
 > **Dica:**: 
 > Para implementar verificações de semelhança entre um campo e diferentes valores, use a construção ***CASE*** em vez de ***IF,*** já que ela é mais transparente e tem melhor performance.
 
+- Abaixo alguns exemplos de uso da instrução ***IF***.
+
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig10.png)
 
 
@@ -246,5 +248,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjMwNzk1OCwtNjA0MTAyMDQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MzU1MjI3NzQsLTYwNDEwMjA0OF19
 -->
