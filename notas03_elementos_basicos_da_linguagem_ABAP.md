@@ -202,6 +202,7 @@ ramificações). Se nenhum aida assim não for cumprida, será executada a ramif
 
 2. Pode-se utilizar a instrução ***CASE*** para se distinguir claramente os casos. Nesse caso, O conteúdo do campo indicado na parte ***CASE*** é comparado com os objetos de dados listados nas ramificações ***WHEN***, para ver se eles coincidem. e. Se nenhuma comparação tiver êxito, o sistema executará a ramificação ***OTHERS***, se existir. Exceto no caso da primeira ramificação ***WHEN***, todos os outros suplementos são opcionais.
 
+> Dica:
 
 ```abap
 IF 	gv_var > 0.
@@ -238,11 +239,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTAxNTAwOCw4MjM2NjM4MTQsMTY1NT
-UxMTQwOCwxNDE5MDU2MDg1LC0yMDg2Mzg5NTEsLTE1MDExNzMy
-NjcsMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNzIyMTE2ODcsLT
-I1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAxMTgsLTE0MTEy
-NTk3NDUsMTkxNzYxNDQ2OSwtMjA4Nzk0NDE5NiwyMDkyNTEzND
-MsLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3
-MzkyODc1NDZdfQ==
+eyJoaXN0b3J5IjpbLTExMDM5NjMxNzMsODIzNjYzODE0LDE2NT
+U1MTE0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTcz
+MjY3LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC
+0yNTIwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDEx
+MjU5NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMz
+QzLC0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwx
+NzM5Mjg3NTQ2XX0=
 -->
