@@ -257,7 +257,9 @@ ENDCASE.
 
 ![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig11.png?raw=true)
 
-- 
+-  Dos campos do sistema mais importantes é o campo ***sy- subrc***. E para indicar se a instrução pode ou não ser
+executada com êxito. O valor zero significa que a instrução foi executada com
+êxito.
  
 
 
@@ -272,5 +274,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODU5MjY5Nl19
+eyJoaXN0b3J5IjpbMTk3NDAxNzc5OF19
 -->
