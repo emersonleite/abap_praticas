@@ -13,7 +13,7 @@ O tipo de um parâmetro da interface determina o tipo do próprio parâmetro que
 3. *Definição de campos de entrada/saída:*
 O tipo de um campo de entrada/saída pode fornecer outras informações além das características técnicas, como a ajuda de campo e de entrada de valores.
 
-## Tipos ABAP padrão (*standard data types*)
+## Tipos ABAP padrãode dados padrão em ABAP  (*standard data types*)
 
 - Divididos em dois grupos: tipos **completos** e **incompletos**.
 
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNT
-IwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5
-NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC
-0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5
-Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4OTkzODExNT
-ksLTE1OTI2ODA2NDksLTEwMTczNzgzMDcsNzE2NDM5NTI0LDU1
-NTgyOTc0NF19
+eyJoaXN0b3J5IjpbMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNz
+IyMTE2ODcsLTI1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAx
+MTgsLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OSwtMjA4Nzk0NDE5Ni
+wyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOTAz
+MjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LDkxNDQ5MjczMS
+wtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwtMTAxNzM3ODMwNyw3
+MTY0Mzk1MjRdfQ==
 -->
