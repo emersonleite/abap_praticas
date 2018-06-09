@@ -1,4 +1,4 @@
-# Tipo de dados e objetos de dados 
+# Tipos de dados e objetos de dados 
 
 Uma descrição formal de uma variável é uma categoria de dados **(data type)**. Inversamente, uma variável ou uma constante definida concretamente por meio de uma tipo de dados é um objeto de dados **(data object)**.
 
@@ -144,7 +144,7 @@ projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
 
 As categorias de dados locais apenas devem ser utilizadas exclusivamente no programa onde são definidas e se a informação semântica não for importante para a definição dos objetos de dados correspondentes.
 
-### Instruções ABAP básicas
+### Usando instruções ABAP básicas
 
 #### Atribuições de valor
 
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzA1MzkzNiwxMzczNTUyNTc5LDIxMz
-YzMDY0MzIsMTI3MjIxMTY4NywtMjUyMDE0MjAyLDExNzczNDc1
-NjcsMTM4NjU5MDExOCwtMTQxMTI1OTc0NSwxOTE3NjE0NDY5LC
-0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2NjM4NDQ5NSwtMjk5
-NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4NzU0Niw3MDUzNDI4OT
-QsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0xNTkyNjgwNjQ5LC0x
-MDE3Mzc4MzA3XX0=
+eyJoaXN0b3J5IjpbODAwMTYwNDMzLDEzNzM1NTI1NzksMjEzNj
+MwNjQzMiwxMjcyMjExNjg3LC0yNTIwMTQyMDIsMTE3NzM0NzU2
+NywxMzg2NTkwMTE4LC0xNDExMjU5NzQ1LDE5MTc2MTQ0NjksLT
+IwODc5NDQxOTYsMjA5MjUxMzQzLC0xODY2Mzg0NDk1LC0yOTk2
+ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3NTQ2LDcwNTM0Mjg5NC
+w5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1OTI2ODA2NDksLTEw
+MTczNzgzMDddfQ==
 -->
