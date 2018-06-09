@@ -188,8 +188,9 @@ A instrução *STRLEN* a seguir fornece o comprimento de uma *string*.
 gv_length = STRLEN( gv_cityfrom ).
 ```
 - A sequência de operações segue regras algébricas, sendo que as expressões entre parênteses têm prioridade, depois vêm as funções, depois as potências, seguidas pela multiplicação/divisão e, finalmente, a adição/subtração.
-- 
 
+- Para funções, o parênteses de abertura faz parte do nome da função ().
+Novamente, o resto precisa ser separado por, pelo menos, um espaço.
 
  #### Condicionais e expressões lógicas
 
@@ -228,11 +229,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk0NTk1MTUsODIzNjYzODE0LDE2NT
-U1MTE0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTcz
-MjY3LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC
-0yNTIwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDEx
-MjU5NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMz
-QzLC0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwx
-NzM5Mjg3NTQ2XX0=
+eyJoaXN0b3J5IjpbMjk5NjE0NzksODIzNjYzODE0LDE2NTU1MT
+E0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTczMjY3
+LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNT
+IwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5
+NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC
+0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5
+Mjg3NTQ2XX0=
 -->
