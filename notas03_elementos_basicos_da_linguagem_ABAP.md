@@ -259,7 +259,9 @@ ENDCASE.
 
 -  Dos campos do sistema mais importantes é o campo ***sy- subrc***. Ele serve para indicar se a instrução pode ou não ser executada com êxito. O valor **0 (zero)** significa que a instrução foi executada com êxito.
  
- 
+ #### Mensagens interativas
+
+
 
 
 
@@ -273,5 +275,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQzNjY4NDddfQ==
+eyJoaXN0b3J5IjpbMzU0ODg4ODA4LC0xNDc0MzY2ODQ3XX0=
 -->
