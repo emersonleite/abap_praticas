@@ -232,7 +232,7 @@ ENDCASE.
 
 - As estrutas devem ser devidamente fechadas com ***ENDIF*** ou ***ENDCASE***, a depender do caso.
 
- #### Lo
+ #### Loops
 
 
  
@@ -249,6 +249,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDMxNDYzMCwtMTE5MjIxMjg4OCwtNj
-A0MTAyMDQ4XX0=
+eyJoaXN0b3J5IjpbLTE4OTY5NTk3NDgsLTExOTIyMTI4ODgsLT
+YwNDEwMjA0OF19
 -->
