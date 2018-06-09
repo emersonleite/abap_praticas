@@ -250,7 +250,9 @@ ENDCASE.
 -- ***SELECT*** para ler entradas de uma tabela de banco de dados;
 -- ***LOOP AT*** para tabelas internas.
 
-#### Campos de s
+#### Campos de sistema
+- Não precisam ser declarados com antecedência.
+- 
 
 
  
@@ -267,5 +269,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyNzAzOTRdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTUwMzc0N119
 -->
