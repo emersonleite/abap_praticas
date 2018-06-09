@@ -235,10 +235,13 @@ ENDCASE.
 - Com a utilização de ***AND*** ou ***OR*** para ligação entre sentenças, utiliza-se parenteses.  
 
  #### *Loops*
+ 
  - Existem quatro tipos de *loops*.
  
  - O campo de sistema ***SY-INDEX***, contém o *loops* atual para *loops* ***DO*** e ***WHILE***.
 
+1. *Loop* ***DO - ENDDO***
+--
 - 
 
 
@@ -256,5 +259,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODM5ODA4OF19
+eyJoaXN0b3J5IjpbLTE1MjgzNTk2MV19
 -->
