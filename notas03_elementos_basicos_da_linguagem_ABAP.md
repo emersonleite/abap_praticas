@@ -148,8 +148,7 @@ As categorias de dados locais apenas devem ser utilizadas exclusivamente no prog
 
 ## Atribuições de valor
 
-Quando o programa é iniciado, o contexto do programa é carregado na área de memória do servidor de aplicação eé disponibilizada memória para os objetos de dados definidos no programa. A todos os objetos de dados elementares é
-previamente atribuído um valor inicial específico de tipo, exceto se tiver sido definido um valor diferente por meio do suplemento *VALUE.*
+Quando o programa é iniciado, o contexto do programa é carregado na área de memória do servidor de aplicação eé disponibilizada memória para os objetos de dados definidos no programa. A todos os objetos de dados elementares é previamente atribuído um valor inicial específico de tipo, exceto se tiver sido definido um valor diferente por meio do suplemento *VALUE.*
 
 
 ![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig08.png)
@@ -226,11 +225,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYzODk1MSwtMTUwMTE3MzI2NywxMz
-czNTUyNTc5LDIxMzYzMDY0MzIsMTI3MjIxMTY4NywtMjUyMDE0
-MjAyLDExNzczNDc1NjcsMTM4NjU5MDExOCwtMTQxMTI1OTc0NS
-wxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIwOTI1MTM0MywtMTg2
-NjM4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMzAyNDQsMTczOTI4Nz
-U0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0xODk5MzgxMTU5LC0x
-NTkyNjgwNjQ5XX0=
+eyJoaXN0b3J5IjpbLTExODIyNDc2NDEsLTIwODYzODk1MSwtMT
+UwMTE3MzI2NywxMzczNTUyNTc5LDIxMzYzMDY0MzIsMTI3MjIx
+MTY4NywtMjUyMDE0MjAyLDExNzczNDc1NjcsMTM4NjU5MDExOC
+wtMTQxMTI1OTc0NSwxOTE3NjE0NDY5LC0yMDg3OTQ0MTk2LDIw
+OTI1MTM0MywtMTg2NjM4NDQ5NSwtMjk5NjgwMDc4LDE5MDMyMz
+AyNDQsMTczOTI4NzU0Niw3MDUzNDI4OTQsOTE0NDkyNzMxLC0x
+ODk5MzgxMTU5XX0=
 -->
