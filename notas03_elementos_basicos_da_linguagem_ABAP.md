@@ -230,7 +230,9 @@ ENDCASE.
 ```
 - As negações são normalmente formuladas colocando o operador **NOT** antes da expressão lógica. Quando utilizar negações na consulta ***IS INITIAL***, você pode utilizar a consulta especial ***IS NOT INITIAL***.
 
-- As estrutas devem ser devidamente fechadas com ***ENDIF*** ou ***ENDCASE***, a depender do caso.
+- As estruturas devem ser devidamente fechadas com ***ENDIF*** ou ***ENDCASE***, a depender do caso.
+
+- Com a  
 
  #### Loops
 
@@ -249,6 +251,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5NTk3NDgsLTExOTIyMTI4ODgsLT
-YwNDEwMjA0OF19
+eyJoaXN0b3J5IjpbLTUzMTgwMDYwNiwtMTg5Njk1OTc0OCwtMT
+E5MjIxMjg4OCwtNjA0MTAyMDQ4XX0=
 -->
