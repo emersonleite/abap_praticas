@@ -181,7 +181,7 @@ A instrução *CLEAR* redefine o conteúdo de um objeto de dados ao valor inicia
 **DIV**        - Divisão de número inteiro sem resto
 **MOD**     - Resto após divisão de número inteiro
 
-> **ATENÇÃO:** Parênteses e operadores são palavras- chave ABAP e, portanto, precisam ser separados das outras Palavras por, pelo menos, um espaço.
+> **ATENÇÃO:** Parênteses e operadores são palavras- chave ABAP e, portanto, precisam ser separados das outras palavras por, pelo menos, um espaço.
 
 A instrução *STRLEN* a seguir fornece o comprimento de uma *string*. 
 ```abap
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNT
-AxMTczMjY3LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjEx
-Njg3LC0yNTIwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC
-0xNDExMjU5NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5
-MjUxMzQzLC0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMD
-I0NCwxNzM5Mjg3NTQ2LDcwNTM0Mjg5NCw5MTQ0OTI3MzEsLTE4
-OTkzODExNTldfQ==
+eyJoaXN0b3J5IjpbLTY5MjU3NDI4MywxNDE5MDU2MDg1LC0yMD
+g2Mzg5NTEsLTE1MDExNzMyNjcsMTM3MzU1MjU3OSwyMTM2MzA2
+NDMyLDEyNzIyMTE2ODcsLTI1MjAxNDIwMiwxMTc3MzQ3NTY3LD
+EzODY1OTAxMTgsLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OSwtMjA4
+Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5OTY4MD
+A3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyODk0LDkx
+NDQ5MjczMV19
 -->
