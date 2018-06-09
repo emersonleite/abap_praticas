@@ -200,7 +200,7 @@ Novamente, o resto precisa ser separado por, pelo menos, um espaço.
  Se a condição do ***IF*** não for cumprida, será verificada a condição indicada na ramificação ***ELSEIF*** seguinte (podem existir várias
 ramificações). Se nenhum aida assim não for cumprida, será executada a ramificação ***ELSE*** - caso exista. As ramificações ***ELSEIF*** e ***ELSE*** são opcionais.
 
-2. 
+2. Pode-se utilizar a instrução ***CASE*** para se distinguir claramente os casos. Nesse caso, 
 
 
 ```abap
@@ -238,7 +238,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODU4NjE2MCw4MjM2NjM4MTQsMTY1NT
+eyJoaXN0b3J5IjpbLTUzMzg5MDA2NSw4MjM2NjM4MTQsMTY1NT
 UxMTQwOCwxNDE5MDU2MDg1LC0yMDg2Mzg5NTEsLTE1MDExNzMy
 NjcsMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNzIyMTE2ODcsLT
 I1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAxMTgsLTE0MTEy
