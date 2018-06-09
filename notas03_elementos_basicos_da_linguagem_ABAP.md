@@ -247,7 +247,8 @@ ENDCASE.
 -- Executado até que a condição indicada não seja mais cumprida. Essa condição é sempre verificada antes da execução do bloco.
 
 3. *Loops* de leitura:
--- SELECT para ler entradas 
+-- ***SELECT*** para ler entradas de uma tabela de banco de dados;
+-- ***LOOP AT*** para tabelas internas.
 
 - 
 
@@ -266,5 +267,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjU2MjM0OV19
+eyJoaXN0b3J5IjpbLTEyMzU5OTAxMDJdfQ==
 -->
