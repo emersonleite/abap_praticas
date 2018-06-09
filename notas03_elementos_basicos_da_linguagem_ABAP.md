@@ -207,7 +207,7 @@ ramificações). Se nenhum aida assim não for cumprida, será executada a ramif
 
 - Abaixo alguns exemplos de uso da instrução ***IF***.
 
-![Exemplos da definição de objetos de dados elementares](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig10.png)
+![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig10.png?raw=true)
 
 
 
@@ -248,5 +248,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU1MjI3NzQsLTYwNDEwMjA0OF19
+eyJoaXN0b3J5IjpbLTExOTIyMTI4ODgsLTYwNDEwMjA0OF19
 -->
