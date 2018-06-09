@@ -194,6 +194,11 @@ Novamente, o resto precisa ser separado por, pelo menos, um espaço.
 
  #### Condicionais e expressões lógicas
 
+- Em ABAP, existem duas maneiras de executar diferentes sequências de instruções, dependendo de certas condições.
+
+1. Na construção ***IF***, você pode definir qualquer expressão lógica;
+-  
+
 ```abap
 IF 	gv_var > 0.
 * Instruções.
@@ -229,7 +234,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODI5NzY0Myw4MjM2NjM4MTQsMTY1NT
+eyJoaXN0b3J5IjpbLTIxMjQ3NDIwOSw4MjM2NjM4MTQsMTY1NT
 UxMTQwOCwxNDE5MDU2MDg1LC0yMDg2Mzg5NTEsLTE1MDExNzMy
 NjcsMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNzIyMTE2ODcsLT
 I1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAxMTgsLTE0MTEy
