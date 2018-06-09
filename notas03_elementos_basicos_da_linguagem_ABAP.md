@@ -272,7 +272,7 @@ ENDCASE.
 - Utilizar o suplemento ***WITH*** se houver valores a indicar. Esse valores aparecerão no corpo da mensagem.
 
 - Exemplo abaixo:
-![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig12.png?raw=true)
+![Mensagens interativas](https://github.com/emersonleite/abap_praticas/blob/master/fig12.png?raw=true)
 
 
 
@@ -287,6 +287,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTk2MDc3NCwxOTMzNDk0ODc4LC0xND
-c0MzY2ODQ3XX0=
+eyJoaXN0b3J5IjpbLTIwODM2NjY1MjYsMTkzMzQ5NDg3OCwtMT
+Q3NDM2Njg0N119
 -->
