@@ -232,9 +232,10 @@ ENDCASE.
 
 - As estruturas devem ser devidamente fechadas com ***ENDIF*** ou ***ENDCASE***, a depender do caso.
 
-- Com a  
+- Com a utilização de ***AND*** ou ***OR*** para ligação entre sentenças, utiliza-se parenteses.  
 
  #### Loops
+ - 
 
 
  
@@ -251,6 +252,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTgwMDYwNiwtMTg5Njk1OTc0OCwtMT
+eyJoaXN0b3J5IjpbMTcyMzcxNzU2NCwtMTg5Njk1OTc0OCwtMT
 E5MjIxMjg4OCwtNjA0MTAyMDQ4XX0=
 -->
