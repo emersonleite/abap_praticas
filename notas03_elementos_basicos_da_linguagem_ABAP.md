@@ -187,7 +187,7 @@ A instrução *STRLEN* a seguir fornece o comprimento de uma *string*.
 ```abap
 gv_length = STRLEN( gv_cityfrom ).
 ```
-
+- 
 
 
  #### Condicionais e expressões lógicas
@@ -227,7 +227,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTI0OTQzNywxNDE5MDU2MDg1LC0yMD
+eyJoaXN0b3J5IjpbMTY1NTUxMTQwOCwxNDE5MDU2MDg1LC0yMD
 g2Mzg5NTEsLTE1MDExNzMyNjcsMTM3MzU1MjU3OSwyMTM2MzA2
 NDMyLDEyNzIyMTE2ODcsLTI1MjAxNDIwMiwxMTc3MzQ3NTY3LD
 EzODY1OTAxMTgsLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OSwtMjA4
