@@ -236,6 +236,7 @@ ENDCASE.
 
  #### *Loops*
  - Existem quatro tipos de *loops*.
+ - O campo de sistema S
 
 
  
@@ -252,6 +253,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTc4Njk3OCwtMTg5Njk1OTc0OCwtMT
-E5MjIxMjg4OCwtNjA0MTAyMDQ4XX0=
+eyJoaXN0b3J5IjpbLTcxNzA2NTk3Nl19
 -->
