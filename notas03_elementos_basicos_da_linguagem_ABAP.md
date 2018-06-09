@@ -209,10 +209,6 @@ ramificações). Se nenhum aida assim não for cumprida, será executada a ramif
 
 ![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig10.png?raw=true)
 
-
-
-
-
 ```abap
 IF 	gv_var > 0.
 * Instruções.
@@ -233,7 +229,10 @@ CASE gv_carrid.
 ENDCASE.	
 ```
 - As negações são normalmente formuladas colocando o operador **NOT** antes da expressão lógica. Quando utilizar negações na consulta ***IS INITIAL***, você pode utilizar a consulta especial ***IS NOT INITIAL***.
-- As estrutas devem ser devidamente fechadas com ***ENDIF*** ou ENDCASE, a depender do caso.
+
+- As estrutas devem ser devidamente fechadas com ***ENDIF*** ou ***ENDCASE***, a depender do caso.
+
+ #### Lo
 
 
  
@@ -250,6 +249,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTMyNjkzMSwtMTE5MjIxMjg4OCwtNj
+eyJoaXN0b3J5IjpbMTU0NDMxNDYzMCwtMTE5MjIxMjg4OCwtNj
 A0MTAyMDQ4XX0=
 -->
