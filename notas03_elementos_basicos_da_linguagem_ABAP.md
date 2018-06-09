@@ -144,9 +144,9 @@ projetar exibições de telas (por exemplo, a descrição breve no lado esquerdo
 
 As categorias de dados locais apenas devem ser utilizadas exclusivamente no programa onde são definidas e se a informação semântica não for importante para a definição dos objetos de dados correspondentes.
 
-### Usando instruções ABAP básicas
+# Usando instruções básicas em ABAP
 
-#### Atribuições de valor
+## Atribuições de valor
 
 Quando o programa é iniciado, o contexto do programa é carregado na área de memória do servidor de aplicação eé disponibilizada memória para os objetos de dados definidos no programa. A todos os objetos de dados elementares é
 previamente atribuído um valor inicial específico de tipo, exceto se tiver sido definido um valor diferente por meio do suplemento *VALUE.*
@@ -226,11 +226,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMTYwNDMzLDEzNzM1NTI1NzksMjEzNj
-MwNjQzMiwxMjcyMjExNjg3LC0yNTIwMTQyMDIsMTE3NzM0NzU2
-NywxMzg2NTkwMTE4LC0xNDExMjU5NzQ1LDE5MTc2MTQ0NjksLT
-IwODc5NDQxOTYsMjA5MjUxMzQzLC0xODY2Mzg0NDk1LC0yOTk2
-ODAwNzgsMTkwMzIzMDI0NCwxNzM5Mjg3NTQ2LDcwNTM0Mjg5NC
-w5MTQ0OTI3MzEsLTE4OTkzODExNTksLTE1OTI2ODA2NDksLTEw
-MTczNzgzMDddfQ==
+eyJoaXN0b3J5IjpbLTE1MDExNzMyNjcsMTM3MzU1MjU3OSwyMT
+M2MzA2NDMyLDEyNzIyMTE2ODcsLTI1MjAxNDIwMiwxMTc3MzQ3
+NTY3LDEzODY1OTAxMTgsLTE0MTEyNTk3NDUsMTkxNzYxNDQ2OS
+wtMjA4Nzk0NDE5NiwyMDkyNTEzNDMsLTE4NjYzODQ0OTUsLTI5
+OTY4MDA3OCwxOTAzMjMwMjQ0LDE3MzkyODc1NDYsNzA1MzQyOD
+k0LDkxNDQ5MjczMSwtMTg5OTM4MTE1OSwtMTU5MjY4MDY0OSwt
+MTAxNzM3ODMwN119
 -->
