@@ -261,8 +261,9 @@ ENDCASE.
  
  #### Mensagens interativas
 
-- Instrução ME
-
+- Utiliza-se a instrução ***MESSAGE***;
+- Indicar o numero da mensagem (3 dígitos) e a classe da mensagem;
+- 
 
 
 
@@ -277,5 +278,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTQ1MjEyNSwtMTQ3NDM2Njg0N119
+eyJoaXN0b3J5IjpbLTE2MzQ5NTExLC0xNDc0MzY2ODQ3XX0=
 -->
