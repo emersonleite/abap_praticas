@@ -232,6 +232,8 @@ CASE gv_carrid.
 	*--> Instruções
 ENDCASE.	
 ```
+- As negações são normalmente formuladas colocando o operador **NOT** antes da expressão lógica. Quando utilizar negações na consulta ***IS INITIAL***, você pode utilizar a consulta especial ***IS NOT INITIAL***.
+- As es
 
 
  
@@ -248,5 +250,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIyMTI4ODgsLTYwNDEwMjA0OF19
+eyJoaXN0b3J5IjpbMTE3NTcwMDM3MSwtMTE5MjIxMjg4OCwtNj
+A0MTAyMDQ4XX0=
 -->
