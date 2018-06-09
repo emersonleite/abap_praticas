@@ -189,7 +189,7 @@ gv_length = STRLEN( gv_cityfrom ).
 ```
 - A sequência de operações segue regras algébricas, sendo que as expressões entre parênteses têm prioridade, depois vêm as funções, depois as potências, seguidas pela multiplicação/divisão e, finalmente, a adição/subtração.
 
-- Para funções, o parênteses de abertura faz parte do nome da função ().
+- Para funções, o parênteses de abertura faz parte do nome da função (não há espaço entre o nome da função e o primeiro parenteses).
 Novamente, o resto precisa ser separado por, pelo menos, um espaço.
 
  #### Condicionais e expressões lógicas
@@ -229,11 +229,11 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NjE0NzksODIzNjYzODE0LDE2NTU1MT
-E0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTczMjY3
-LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC0yNT
-IwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDExMjU5
-NzQ1LDE5MTc2MTQ0NjksLTIwODc5NDQxOTYsMjA5MjUxMzQzLC
-0xODY2Mzg0NDk1LC0yOTk2ODAwNzgsMTkwMzIzMDI0NCwxNzM5
-Mjg3NTQ2XX0=
+eyJoaXN0b3J5IjpbLTI3ODI5NzY0Myw4MjM2NjM4MTQsMTY1NT
+UxMTQwOCwxNDE5MDU2MDg1LC0yMDg2Mzg5NTEsLTE1MDExNzMy
+NjcsMTM3MzU1MjU3OSwyMTM2MzA2NDMyLDEyNzIyMTE2ODcsLT
+I1MjAxNDIwMiwxMTc3MzQ3NTY3LDEzODY1OTAxMTgsLTE0MTEy
+NTk3NDUsMTkxNzYxNDQ2OSwtMjA4Nzk0NDE5NiwyMDkyNTEzND
+MsLTE4NjYzODQ0OTUsLTI5OTY4MDA3OCwxOTAzMjMwMjQ0LDE3
+MzkyODc1NDZdfQ==
 -->
