@@ -259,7 +259,7 @@ ENDCASE.
 
 -  Dos campos do sistema mais importantes é o campo ***sy- subrc***. Ele serve para indicar se a instrução pode ou não ser executada com êxito. O valor **0 (zero)** significa que a instrução foi executada com êxito.
 
-![Exemplos de uso da instrução IF](https://github.com/emersonleite/abap_praticas/blob/master/fig13.png?raw=true)
+![Aplicação do sy-subrc](https://github.com/emersonleite/abap_praticas/blob/master/fig13.png?raw=true)
  
  #### Mensagens interativas
 
@@ -287,6 +287,6 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM2NjY1MjYsMTkzMzQ5NDg3OCwtMT
-Q3NDM2Njg0N119
+eyJoaXN0b3J5IjpbNDM1OTAyMDQ1LC0yMDgzNjY2NTI2LDE5Mz
+M0OTQ4NzgsLTE0NzQzNjY4NDddfQ==
 -->
