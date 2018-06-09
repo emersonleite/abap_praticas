@@ -187,7 +187,8 @@ A instrução *STRLEN* a seguir fornece o comprimento de uma *string*.
 ```abap
 gv_length = STRLEN( gv_cityfrom ).
 ```
-- A sequência de operações 
+- A sequência de operações segue regras algébricas, sendo que as expressões entre parênteses têm prioridade, depois vêm as funções, depois as potências, seguidas pela multiplicação/divisão e, finalmente, a adição/subtração.
+- 
 
 
  #### Condicionais e expressões lógicas
@@ -227,7 +228,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg0NDYyMzAsODIzNjYzODE0LDE2NT
+eyJoaXN0b3J5IjpbLTIwNTk0NTk1MTUsODIzNjYzODE0LDE2NT
 U1MTE0MDgsMTQxOTA1NjA4NSwtMjA4NjM4OTUxLC0xNTAxMTcz
 MjY3LDEzNzM1NTI1NzksMjEzNjMwNjQzMiwxMjcyMjExNjg3LC
 0yNTIwMTQyMDIsMTE3NzM0NzU2NywxMzg2NTkwMTE4LC0xNDEx
