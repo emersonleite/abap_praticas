@@ -244,7 +244,7 @@ ENDCASE.
 -- Executado continumante até que seja calcelado com ***EXIT***. Pode-se indicar o número de *loops* que se quer. 
 
 2. *Loop* ***WHILE-ENDWHILE*** - controlado por cabeçalho:
--- 
+-- Executado
 - 
 
 
@@ -262,5 +262,5 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MTk3MDIyXX0=
+eyJoaXN0b3J5IjpbLTE4MzE3MTUyOF19
 -->
