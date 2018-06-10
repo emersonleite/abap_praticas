@@ -274,6 +274,7 @@ ENDCASE.
 - Exemplo abaixo:
 ![Mensagens interativas](https://github.com/emersonleite/abap_praticas/blob/master/fig12.png?raw=true)
 
+f
 
 
 
@@ -287,6 +288,7 @@ ENDCASE.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTcxNjM2NSw0MzU5MDIwNDUsLTIwOD
-M2NjY1MjYsMTkzMzQ5NDg3OCwtMTQ3NDM2Njg0N119
+eyJoaXN0b3J5IjpbODk2NDU3MTQ5LC00NzE3MTYzNjUsNDM1OT
+AyMDQ1LC0yMDgzNjY2NTI2LDE5MzM0OTQ4NzgsLTE0NzQzNjY4
+NDddfQ==
 -->
