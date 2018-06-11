@@ -274,21 +274,3 @@ ENDCASE.
 - Exemplo abaixo:
 ![Mensagens interativas](https://github.com/emersonleite/abap_praticas/blob/master/fig12.png?raw=true)
 
-f
-
-
-
-
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDU3MTQ5LC00NzE3MTYzNjUsNDM1OT
-AyMDQ1LC0yMDgzNjY2NTI2LDE5MzM0OTQ4NzgsLTE0NzQzNjY4
-NDddfQ==
--->
