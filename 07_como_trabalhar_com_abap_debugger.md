@@ -1,6 +1,6 @@
 # **Como trabalhar com o** **_ABAP Debugger_**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image002.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig14.png)
 
 **Execute um programa no modo de depuração**
 
@@ -10,7 +10,7 @@ a) Na área de navegação do programa em questão, selecione o menu de contexto
 
 b) Na área do editor, selecione a linha do programa em questão, a partir da qual você quer efetuar a depuração. Selecione o botão _Definir/eliminar ponto de parada_. Depois, inicie o programa selecionando _F8_ ou, na área de navegação, por meio do menu de contexto _Executar → Direto_. (A configuração de um ponto de parada no editor, descrita acima, só é possível para textos fonte ativos.)
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image004.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig15.png)
 
 **Como alternar para modo de depuração no momento da**
 
@@ -22,7 +22,7 @@ a) Selecione _Sistema → Utilitários → Depuração do ABAP (ou tela)_.
 
 b) Insira **/h** no campo de comandos da barra de ferramentas e pressione **Enter**.
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image006.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig16.png)
 
 **ABAP Debugger: Etapa individual e conteúdo do campo**
 
@@ -32,7 +32,7 @@ Apenas o depurador clássico está disponível com o _SAP Web Application Server
 
 No depurador clássico, você pode exibir o conteúdo de até oito objetos de dados. Para isso, proceda como faria com o novo depurador.
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image008.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig17.png)
 
 **ABAP Debugger: pontos de parada**
 
@@ -40,7 +40,7 @@ No novo depurador, você pode definir um **ponto de parada** com um único cliqu
 
 Os pontos de parada definidos apenas são válidos para a sessão atual do depurador. Contudo, se você selecionar _Gravar_, os pontos de parada permanecerão inalterados durante toda sua sessão SAP.
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image010.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig18.png)
 
 **ABAP Debugger: rastreamento de modificações de dados**
 
@@ -61,5 +61,5 @@ Foram adicionadas várias funções úteis ao novo depurador (contudo, a maioria
 eyJoaXN0b3J5IjpbNTQ3NjczNjEwLDE0NTQxNjQ5NTVdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODA1NzEyMV19
+eyJoaXN0b3J5IjpbMTI4Mzk5NTYxLDE4OTgwNTcxMjFdfQ==
 -->
