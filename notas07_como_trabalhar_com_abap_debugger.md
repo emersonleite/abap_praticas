@@ -1,6 +1,8 @@
 # **Como trabalhar com o** **_ABAP Debugger_**
 
-![if !vml]>![](file:///C:/Users/servidor/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//fig02.png)
+
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image002.png)
 
 **Execute um programa no modo de depuração**
 
@@ -58,5 +60,5 @@ Se você quiser modificar o conteúdo de um campo durante a depuração, faça u
 
 Foram adicionadas várias funções úteis ao novo depurador (contudo, a maioria foi incorporada pela primeira vez com o release 7.0 do _SAP NetWeaver_). No _Object Navigator_, você pode determinar o depurador que quer utilizar como padrão, selecionando _Utilitários → Configurações → Editor ABAP → Depurador_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDE2NDk1NV19
+eyJoaXN0b3J5IjpbMTcwNjA0Njk3NiwxNDU0MTY0OTU1XX0=
 -->
