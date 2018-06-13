@@ -40,23 +40,23 @@ No novo depurador, você pode definir um **ponto de parada** com um único cliqu
 
 Os pontos de parada definidos apenas são válidos para a sessão atual do depurador. Contudo, se você selecionar _Gravar_, os pontos de parada permanecerão inalterados durante toda sua sessão SAP.
 
-![if !vml]>![](file:///C:/Users/servidor/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image010.png)
 
 **ABAP Debugger: rastreamento de modificações de dados**
 
 Os **watchpoints** são pontos de parada dependentes do conteúdo do campo. Se você definir um watchpoint **sem indicar um operador relacional/valor de comparação** em um campo e selecionar _Avançar_, o programa será executado até que o conteúdo do campo seja modificado. Pelo contrário, se você **tiver indicado o operador relacional e o valor de comparação** então, logo que você selecione _Avançar_, o programa será executado até que a condição indicada seja atendida. No depurador clássico, você pode definir, no máximo, 10 watchpoints. Contudo, você pode ligá-los tal como no novo depurador, utilizando um operador lógico (AND ou OR).
 
-**_<![if !vml]>![](file:///C:/Users/servidor/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)<![endif]>_**
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image012.png)
 
 **ABAP Debugger: modificação do conteúdo do campo**
 
 Se você quiser modificar o conteúdo de um campo durante a depuração, faça um clique duplo no ícone do lápis, na exibição de variável. O valor estará então pronto para entrada. Agora, modifique o valor do campo e confirme a alteração selecionando **ENTER**. O valor será modificado durante a execução do depurador. No depurador clássico, você pode modificar o conteúdo diretamente na visão de campo. Basta clicar no ícone do lápis para aceitar o valor modificado.
 
-**<![if !vml]>![](file:///C:/Users/servidor/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)<![endif]>**
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master//clip_image014.png)
 
 **Funções adicionais do novo depurador**
 
 Foram adicionadas várias funções úteis ao novo depurador (contudo, a maioria foi incorporada pela primeira vez com o release 7.0 do _SAP NetWeaver_). No _Object Navigator_, você pode determinar o depurador que quer utilizar como padrão, selecionando _Utilitários → Configurações → Editor ABAP → Depurador_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTM5MjMxNywxNDU0MTY0OTU1XX0=
+eyJoaXN0b3J5IjpbNTQ3NjczNjEwLDE0NTQxNjQ5NTVdfQ==
 -->
