@@ -2,7 +2,7 @@
 
 ## **Técnica de modularização**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/clip_image002.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/fig21.png)
 
  **Opções para utilização de unidades de modularização**
 
@@ -14,7 +14,7 @@ A modularização torna **mais fácil atualizar** programas, pois você apenas p
 
 ## **Modularização de programas locais**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/clip_image004.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/fig22.png)
 
 **Modularização de programas locais**
 
@@ -28,7 +28,7 @@ Com ambas as técnicas de modularização, as unidade de modularização apenas 
 
 ## **Modularização global**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/clip_image006.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/fig23.png)
 
 **Modularização global**
 
@@ -42,7 +42,7 @@ Também existem duas técnicas para modularização global na linguagem de progr
 
 ## **Encapsulamento de dados**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/clip_image008.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/fig24.png)
 
 **Separação de dados**
 
@@ -54,7 +54,7 @@ Nós tomaremos como exemplo uma unidade de modularização em que é processada 
 
 ## **Transportes de dados, parâmetros e interface**
 
-![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/clip_image010.png)
+![enter image description here](https://raw.githubusercontent.com/emersonleite/abap_praticas/master/fig25.png)
 
 **Transportes de dados entre o programa e a unidade de Modularização**
 
