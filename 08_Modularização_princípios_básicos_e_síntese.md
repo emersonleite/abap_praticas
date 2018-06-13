@@ -1,5 +1,3 @@
-<![endif]-->
-
 # **Modularização - princípios básicos e síntese**
 
 ## **Técnica de modularização**
@@ -65,5 +63,6 @@ Os **parâmetros** são utilizados para o **intercâmbio de dados** entre o prog
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU0ODQyMzBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDczODUwMjMsLTExNTU0ODQyMzBdfQ
+==
 -->
