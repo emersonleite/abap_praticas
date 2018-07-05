@@ -79,3 +79,23 @@ A implementação do BPM ajuda aas organizações a delimitar o que cada um faz no p
 - Necessária identificação dos processos de uma empresa. Entender a realidade do cliente. As dores. Para verificar até que ponto o SAP pode atender. 
 
 
+## BPMN - Business process model and notation
+
+- Criada em 2002 pela BPMI (Business Process Management Iniciative);
+- mantida pela ONG (Object Mangement Group);
+- XML Process Definition Language (XPDL) + Representação gráfica;
+- Notação padrão aberto;
+- Portabilidade com diversas ferramentas ;
+
+Faz em níveis:
+- Executivo;
+- ...
+
+## Agentes externos do processo:
+
+- Fornecedores ou
+- Clientes
+
+
+
+
