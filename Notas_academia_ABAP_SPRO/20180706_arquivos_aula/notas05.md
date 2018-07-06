@@ -51,6 +51,12 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 - Saber transmitir otimismo e segurança;
 - Saber trabalhar em equipe;
 - Saber trabalhar com aspectos quantitativos e qualitativos;
+- Saber assumir responsabilidade;
+- Ter capacidade de resolver conflitos;
+- Saber administrar o tempo;
+- 
+
+### Conhecimentos de um consultor
 
 
 
