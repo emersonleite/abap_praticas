@@ -24,7 +24,17 @@ AM - Ativo fixo
 CO - Controladoria
 FI - Finanças 
 
+ACM - Módulo de grãos - Agronegócio
 
-Link: https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/317030086f83418a94dfe94173b46584.html
+
+- Link: https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/317030086f83418a94dfe94173b46584.html
+
+- SAP Training
+
+## Estrutura ABAP - Introdução 
+
+DEV -> QAS -> PRD
+
+DESENVOLVIMENTO -> QUALIDADE -> PRODUÇÃO
 
 
