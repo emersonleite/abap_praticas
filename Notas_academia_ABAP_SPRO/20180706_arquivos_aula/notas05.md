@@ -37,7 +37,24 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 - Ter interesse pelo negócio da empresa;
 - Ter atuação com ênfase nas pessoas;
 - Ter comprometimento com as pessoas;
-- 
+- Ter lealdade;
+- Ter respeito.
+
+### Habilidades de um consultor
+
+- Estar voltado para o processo de inovação;
+- Saber auxlilar na tomada de decisoes e no estabelecimento de prioridades;
+- Ter adequado autocontrole administrativo;
+- Ter pensamento estratégico;
+- Ser um agente de mudança;
+- Ter intuição;
+- Saber transmitir otimismo e segurança;
+- Saber trabalhar em equipe;
+- Saber trabalhar com aspectos quantitativos e qualitativos;
+
+
+
+
 
 
 
