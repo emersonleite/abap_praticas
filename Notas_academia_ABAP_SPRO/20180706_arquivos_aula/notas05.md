@@ -113,7 +113,23 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 ### Consultor funcional
 - Escolhe uma especialidade;
 - Em contato com o cliente;
-				-
+
+				-### Gerente técnico
+- Cronograma;
+- Acompanhamento de projetos;
+- Sai da área de consultor funcional;
+
+### Escritótio de projetos
+
+### Arquiteto de soluções
+
+### Engenheiro de produtos
+
+### Pré-vendas
+
+
+				
+				
 
 
 
