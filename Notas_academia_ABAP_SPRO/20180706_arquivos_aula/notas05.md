@@ -77,6 +77,18 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 - Possuir conhecimento de economia e de política;
 - etc.
 
+### Precisa prezar pela Ética quanto a...
+
+- À sua capacitação;
+- À essenca do serviço de consultoria;
+- À relação com a empresa cliente;
+- Aos assuntos sigilosos;
+- À realidade da empresa;
+- Aos funcionários da empresa;
+- Às vontades próprias;
+- À transferência de connhecimento;
+- À concorrentes da empresa.-
+
 
 
 
