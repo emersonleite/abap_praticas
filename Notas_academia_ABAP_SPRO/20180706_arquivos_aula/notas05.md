@@ -87,7 +87,33 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 - Aos funcionários da empresa;
 - Às vontades próprias;
 - À transferência de connhecimento;
-- À concorrentes da empresa.-
+- À concorrentes da empresa.
+
+## Carreira
+
+### Desenvolvedor: 	
+
+- Atuação na fábrica ABAP, 
+- Como consultor;
+- Consultor de projeto;
+- Atuação na área de produtos;
+				
+### Gerente de Projeto
+- Opção de gerente de projetos técnico.
+
+### Designer/ UX
+- Enorme crescimento ultimamente;
+- Experiência com o usuário;
+
+
+### Gestor de mudanças
+- Projeto administrativo;
+- Ajuda na interface de mudanças;
+
+### Consultor funcional
+- Escolhe uma especialidade;
+- Em contato com o cliente;
+				-
 
 
 
