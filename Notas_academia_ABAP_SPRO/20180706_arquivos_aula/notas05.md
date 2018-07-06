@@ -54,9 +54,29 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 - Saber assumir responsabilidade;
 - Ter capacidade de resolver conflitos;
 - Saber administrar o tempo;
-- 
+- Ter visão abrangente;
+- Ter adequados focos de ataque;
+- Saber trabalhar com elemento surpresa;
+- Ter visão de longo e curto prazos;
+- Saber pensar grande;
+- Saber trabalhar em tempo real;
+- SAber trasnformar o impossível em possível;
+- Saber desenvolver clima de confiança;
+- Saber negociar; 
 
 ### Conhecimentos de um consultor
+
+- Ter elevado conhecimento da sua especialidade;
+- Ter conhecimento em administração;
+- Ser generalista com forte especialização;
+- Desenvolver situações alternativas;
+- Estar voltado para as necessidades de mercado;
+- Ter raciocínio lógico;
+- Saber buscar e consolidar informações;
+- Ter inteligência empresarial;
+- Possuir conhecimento de economia e de política;
+- etc.
+
 
 
 
