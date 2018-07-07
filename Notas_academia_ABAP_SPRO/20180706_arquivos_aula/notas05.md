@@ -128,6 +128,73 @@ _Para tal é essencial que esteja feliz com o que faz e no que faz!_
 ### Pré-vendas
 
 
+## Como funciona... 
+
+### Projeto SAP...
+
+#### Pilares do projeto SAP
+
+- Pessoas;
+- Tecnologia;
+- Processos.
+
+#### Metodologia
+
+- Metodologia única, ágil e modular.
+
+- Prepare -> Explore -> Realize -> Deploy
+
+SAP activate Methodology -  Build Smart, Run, Simple
+
+#### Preparar:
+Organização e governança -> entendimento dos requisitos -> Ambiente Sandbox
+
+#### Explorar:
+Workshop de validação
+
+#### Realizar
+
+#### Implantar
+
+#### Suportar 
+
+## Fatores de sucesso
+
+### Pessoas:
+- Comprometidas;
+- Transparentes;
+- Capazes;
+- Colaborativas;
+- Poder de decisão;
+
+### Processos:
+- Melhores práticas de mercado;
+- Atender ao diferencial do negócio;
+- Simples é genial;
+
+### Gestão:
+- Clareza;
+- Monitoramento e controle;
+- Prezar pela segurança;
+
+### Empresas:
+- Ética;
+- Confiança;
+- Parceria de longo prazo.
+
+## Centro de serviços SPRO - CSS - 
+
+- Faz o trabalho de sustentação depois do projeto implantado;
+- Atendimento de chamados.
+
+
+
+
+
+
+
+
+
 				
 				
 
