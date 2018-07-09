@@ -1,10 +1,10 @@
 # Gerenciamento de projetos
 
 Marcelo Algauer de Almeida - Gerente de PMO
+_marcelo.almeida@spro.com.br_ - **pedir material da aula**.
 
 - Dois tipos de metodologia;
 - Metodologia de desenvolvimento próprio da SAP;
-
 
 ## Introdução
 
@@ -19,7 +19,7 @@ Marcelo Algauer de Almeida - Gerente de PMO
 - Produz um produto, serviço e resultado;
 - Orçamento, custo e prazo;
 
-### Como suge um projeto
+### Como surge um projeto
 
 - Business case;
 
