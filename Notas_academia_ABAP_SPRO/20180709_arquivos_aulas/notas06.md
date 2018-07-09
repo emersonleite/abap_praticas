@@ -49,7 +49,7 @@ Marcelo Algauer de Almeida - Gerente de PMO
  - **Gerencimento de projetos SAP**
  - Blueprint - olhar e fazer o modelo de como deveria funcionar.
  
- 1 - Project preparation -> Blueprint -> Realization -> Final preparation -> Go live Support -> Run
+ 1 - Project preparation -> 2 - Blueprint -> 3 - Realization -> 4 - Final preparation -> 5 -  Go live Support -> 6 - Run
  
  
 
