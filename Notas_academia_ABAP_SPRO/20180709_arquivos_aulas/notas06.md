@@ -55,9 +55,10 @@ Marcelo Algauer de Almeida - Gerente de PMO
  
  - Novo produto, diferente do ECC;
  - Base de dados único;
- - Banco de dados em memória;
+ - Banco de dados em memória; -> **Pesquisar!!!**
  - Tudo está em área de memória;
  - Chega a ser 600x mais rápido que um BD convencional;
+ - Surgiu em 2011;
  - 
 
 
