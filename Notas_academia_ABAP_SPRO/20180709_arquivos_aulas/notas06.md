@@ -59,6 +59,12 @@ Marcelo Algauer de Almeida - Gerente de PMO
  - Tudo está em área de memória;
  - Chega a ser 600x mais rápido que um BD convencional;
  - Surgiu em 2011;
- - 
+ 
+ - **SAP Activate**:
+ 
+ - Baseado em 3 pilares: metodologia, SAP best prectices, ... **ver no slide o 3**
+ - SAP solution Manager 7.2;
+ - 3 tipos de projetos: novas implementações, conversões e Landscape transformation.
+ - Landscape transformation - diminuição de servidores necessários para BD;n
 
 
