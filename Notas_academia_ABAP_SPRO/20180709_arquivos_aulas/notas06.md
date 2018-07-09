@@ -51,6 +51,13 @@ Marcelo Algauer de Almeida - Gerente de PMO
  
  1 - Project preparation -> 2 - Blueprint -> 3 - Realization -> 4 - Final preparation -> 5 -  Go live Support -> 6 - Run
  
+ - **S/4 Hana**
  
+ - Novo produto, diferente do ECC;
+ - Base de dados único;
+ - Banco de dados em memória;
+ - Tudo está em área de memória;
+ - Chega a ser 600x mais rápido que um BD convencional;
+ - 
 
 
