@@ -74,6 +74,8 @@ _marcelo.almeida@spro.com.br_ - **pedir material da aula**.
  
  - O que impede goal live - integrações com outros sistemas, dados de outros BD, perfis de acesso e desenvolvimento. 
  
- - Teste negativo - testar o que o usuário não pode fazer.n
+ - Teste negativo - testar o que o usuário não pode fazer.
+ 
+ n
 
 
