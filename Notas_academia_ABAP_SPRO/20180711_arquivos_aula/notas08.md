@@ -38,3 +38,5 @@ ZRFI_EBL_EXE01
 - CRTL + ESPAÇO - dá opções de comandos. 
 
 - SEPARATED BY - para delimitar o que se usa para separar elementos em concatenação.
+
+- Clicar duas vezes sobre a varivel e o cursor vai até ela. 
