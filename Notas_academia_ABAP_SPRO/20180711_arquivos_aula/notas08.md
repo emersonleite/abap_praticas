@@ -45,7 +45,7 @@ Z_ALN_LEITEE - PACOTE
 
 - if + tab ele monta a estrutura do comando.
 
-- case + tab ele monta a estrutura do comando.
+- case + TAB ele monta a estrutura do comando.
 
 - Para o case, when othes não é obrigatório.
 
@@ -58,3 +58,7 @@ Z_ALN_LEITEE - PACOTE
 - IS INITIAL - para dizer = 0.
 
 - IS NOT INITIAL - para dizer que é diferente de 0.
+
+- Comando PARAMETERS. 
+
+- Mudança do nome do parâmetro em Ir para-> Elementos de texto -> Textos de seleção 
