@@ -1,6 +1,7 @@
 # Criação de transação.
 
-ZRFI_EBL_EXE01
+Programa utilizado - ZRFI_EBL_EXE01
+Z_ALN_LEITEE - PACOTE
 
 - se93 - TRANSAÇÃO PARA CRIAR TRANSAÇÕES
 
@@ -12,6 +13,7 @@ ZRFI_EBL_EXE01
 
 ## Conteúdos tratados
 
+- Criação de transação; 
 - **Tipos de dados completos**;
 - **Tipos incompletos**;
 - Comentários com " ou * no começo de linha.
@@ -40,3 +42,19 @@ ZRFI_EBL_EXE01
 - SEPARATED BY - para delimitar o que se usa para separar elementos em concatenação.
 
 - Clicar duas vezes sobre a variável e o cursor vai até ela. 
+
+- if + tab ele monta a estrutura do comando.
+
+- case + tab ele monta a estrutura do comando.
+
+- Para o case, when othes não é obrigatório.
+
+- Não há limites para when.
+
+- Comando clear. Apaga o valor contido dentro da variável. 
+
+- Para comentar várias linhas: Ctrl + < ou Ctrl + >
+
+- IS INITIAL - para dizer = 0.
+
+- IS NOT INITIAL - para dizer que é diferente de 0.
