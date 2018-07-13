@@ -1,4 +1,4 @@
-Falou sobre 
+# Temas abordados
 
 - Transação;
 
@@ -10,19 +10,26 @@ Falou sobre
 	
 - Navegação.
 
-- Teclas de atalho 
+##- Teclas de atalho 
 
-/N - volta para tela inicial do sap. 
-/Nex - fecha todas as janelas
+/N - cancela a transação atual. Volta para tela inicial do sap. 
+/Nxxxx - deixa/ sai da transação atual e abre a transação xxx.
+/O - gerar ou eliminar uma tela do SAPGUI
+/Oxxxx - Abrir uma nova tela do SAPGUI chamando a transação xxxx.
+/NEND - finalizar a sessão atual com uma mensagem de confirmação.
+/Nex - finalizar a sessão atual sem uma mensagem de confirmação.
+/i - eliminar a janela atual.
 
 
-- Introdução ao ABAP Workbench
+## - Introdução ao ABAP Workbench
 
 - Transação SE80.
 
 - F4 abre procura com z*, por exemplo. Isso no campo de procura da SE80.
 
 - Criação de pacote;
+
+## Requests
 
 - Request - 2 tipos. Customizing e request de workbench.
  - Destino -  para onde a request vai.
@@ -34,7 +41,7 @@ Falou sobre
  
  - Programa tem um padrão de nome. Depende do módulo.
  
- - Dar F1 no comando, aparece ajuda.7
+ - Dar F1 no comando, aparece ajuda.
  
  - Write + aspas simples. 
  
