@@ -1,9 +1,6 @@
-# Criação de transação.
+## Criação de transação.
 
-Programa utilizado - ZRFI_EBL_EXE01
-Z_ALN_LEITEE - PACOTE
-
-- se93 - TRANSAÇÃO PARA CRIAR TRANSAÇÕES
+- SE93 - TRANSAÇÃO PARA CRIAR TRANSAÇÕES
 
 - Uma transação por programa;
 
@@ -11,11 +8,12 @@ Z_ALN_LEITEE - PACOTE
 
 - Programa tela e seleção - para reports.
 
-## Conteúdos tratados
+## Tipos de dados
 
-- Criação de transação; 
 - **Tipos de dados completos**;
 - **Tipos incompletos**;
+
+
 - Comentários com " ou * no começo de linha.
 - tres * + tab, completa com asterisco. Bom para comentários e cabeçalhos. 
 - v_ no nome para variáveis locais.
@@ -29,6 +27,7 @@ Z_ALN_LEITEE - PACOTE
 - com o ALT apertado, possível seleção de multiplas linhas.
 
 - crtl u para deixar seleção em caixa alta.
+
 - crtl l para deixar em caixa baixa. 
 
 - Elementos de texto. Text-001... 
