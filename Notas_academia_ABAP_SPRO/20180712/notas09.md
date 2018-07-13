@@ -1,13 +1,19 @@
-- Dois tipos de pontos de parada: internos e externos. 
+# Debugger 
 
-- Pontos de parada dentro do debugger precisam ser salvos para continuarem externamente. 
+- Existem dois tipos de pontos de parada: internos e externos. 
 
-- Editando variáveis com o lápis.
+- Pontos de parada podem ser definidos dentro do debugger, ma s precisam ser salvos para continuarem externamente. 
 
-- Usar tela desktop 3 de preferência no debugger.
+- É possível se editar valores de variáveis clicando no ícone de lápis, para verificar o comportamento do programa.
 
+- Utilizar, de preferência a tela 'Desktop 3' no debugger.
+
+- Nas abas possível se vizualizar variáveis locais e globais, além daquelas em que se deu duplo clique. 
+
+- **Para estapas no debugger:** 
 - F5 - passo a passo.
 - F6 - pula as funções, por exemplo. 
+- F7 - retorna.
 - F8 - vai para o final, direto.
 
 - transação **/hx** para fechar o debugger. 
