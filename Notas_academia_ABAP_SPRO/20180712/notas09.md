@@ -20,49 +20,44 @@
 
 - Iniciar debug na tela de seleção - **/h**.
 
-- Quando o debbug entrar numa tela padrão, que não é a do programa, entrar com F7. 
+- Quando o debbuger entrar numa outra tela padrão, que não é a do programa que está sendo analisado, entrar com F7 até voltar para o progrma em análise.
 
-- Aba Globais - variáveis do programa. 
-
-- >>>>>> aponta o local do dump. 
+- >>>>>>> aponta o local do dump. 
 
 - Transação **st22** para a procura de dumps.
 
 - Duplo clique para verificar o dump. Dentro da st22. 
 
-- Modificar valor padrão com default:z\7t5
+- Modificar valor padrão com default:
 
 ```abap
 PARAMETERS: P_NAME   TYPE STRING default 'emerson'
 ```
 
-ZRTR_EBL_EXE03
+## form/ perform. 
 
-Programa	R3TR	PROG	ZRTR_EBL_EXE03
-Transação	R3TR	TRAN	Z_EXE03_EBL
+- O que se declara dentro, abaixo do Start of selection é variável local. Informação corrigida depois pelo instrutor. A variável é global. 
 
-- form/ perform. 
+## Criar grupo de funções:
+- Através da transação SE80;
+- Após criar, clicar com o direito e ativar. 
 
-- O que se decalra dentro, abaixo do Start of selection é variável local. 
+## Criar função:
 
-- Criar grupo de funções - após criar, clicar com o direito e ativar. 
+- Transação para modificar e criar funções - SE37;
 
-- Criar função:
+- Na coluna Valor proposto pode se colocar valores padrão (default);
 
-- Transação para modificar e criar funções - SE37
+- Na coluna Importação são colocados dados de entrada da função;
 
-- Valor proposto -> Valor default
+- A coluna Tabelas está obsoleta-> Obsoleto
 
-- Importação -> dados de entrada. 
+- Coluna Modific. corresponde a campos que serão modificados.
 
-- Tabelas -> Obsoleto
+- A coluna Exportação corresponde a dados de retorno. 
 
-- Modific. -> Changing.
+- Os programas do tipo INCLUDES podem ser chamados em qualquer programa. 
 
-- Exportação -> Dados de retorno. 
+- O INCLUDE TOP é utilizado somente para declaração de variáveis globais. Essas variáveis são visíveis em todo o grupo de função. 
 
-- INCLUDES posso chamar em qualquer programa. 
-
-- INCLUDE TOP - SOMENTE PARA DECLARAÇÃO DE VARIÁVEIS GLOBAIS, VISIVEL EM TODO GRUPO DE FUNÇÃO. 
-
-- Testar função com F8. 
+- Para testar a função recém criada pode-se se utilizar o comando F8. 
