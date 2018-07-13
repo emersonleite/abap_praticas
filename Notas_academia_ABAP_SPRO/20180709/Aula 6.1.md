@@ -26,9 +26,9 @@ Business Case:
 
 ## Pontos importantes:
 
-O que é o projeto
-Por que deve ser feito
-O que vai atingir
+O que é o projeto?
+Por que deve ser feito?
+O que vai atingir?
 Opções consideradas
 Qual o custo estimado
 Como será realizado
@@ -126,7 +126,7 @@ Run
 - Realize
 		Desenvolve a requisição feita pelo cliente, desenvolvedor codifica os programas ABAP definidos no Explore
 		Teste integrado junto ao consultor funcional
-		Incremental e iterativo
+		Incremental e interativo
 		Menor customização
 		Levantamento e análise Gap's
 - Deploy

@@ -6,14 +6,14 @@ ewerlon.blasi@spro.com.br
 - Feito pelo consultor funcional junto ao cliente
 
 - Tópicos:
-		- Objetivo
-		- Situação atual
-		- Situação futura
-		- Personalização
-		- Gaps do projeto
-		- Mudanças organizacionais
-		- Aprovação
-		- Anexos
+ - Objetivo
+ - Situação atual
+- Situação futura
+- Personalização
+- Gaps do projeto
+- Mudanças organizacionais
+- Aprovação
+- Anexos
 
 ## Especificação Funcional
 - Documento feito pelo consultor funcional que especifica chamados, alterações, análises, serviços para o desenvolvedor realizar.
