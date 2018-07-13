@@ -12,20 +12,20 @@
 
 ##- Teclas de atalho 
 
-/N - cancela a transação atual. Volta para tela inicial do sap. 
-/Nxxxx - deixa/ sai da transação atual e abre a transação xxx.
-/O - gerar ou eliminar uma tela do SAPGUI
-/Oxxxx - Abrir uma nova tela do SAPGUI chamando a transação xxxx.
-/NEND - finalizar a sessão atual com uma mensagem de confirmação.
-/Nex - finalizar a sessão atual sem uma mensagem de confirmação.
-/i - eliminar a janela atual.
+- /N - cancela a transação atual. Volta para tela inicial do sap. 
+- /Nxxxx - deixa/ sai da transação atual e abre a transação xxx.
+- /O - gerar ou eliminar uma tela do SAPGUI
+- /Oxxxx - Abrir uma nova tela do SAPGUI chamando a transação xxxx.
+- /NEND - finalizar a sessão atual com uma mensagem de confirmação.
+- /Nex - finalizar a sessão atual sem uma mensagem de confirmação.
+- /i - eliminar a janela atual.
 
 
 ## - Introdução ao ABAP Workbench
 
 - Transação SE80.
 
-- F4 abre procura com z*, por exemplo. Isso no campo de procura da SE80.
+- Para busca utilizar o caracter coringa asterisco. Dar F4 abre procura com z*, por exemplo. Isso no campo de procura da SE80.
 
 - Criação de pacote;
 
@@ -34,30 +34,31 @@
 - Request - 2 tipos. Customizing e request de workbench.
  - Destino -  para onde a request vai.
  
- - se09 - transação para criar request e para procurar requests.
+ - SE09 - transação para criar request e para procurar requests.
  
- - Request modificável - ainda coisa a fazer
- - Liberada
+ - Request modificável - para o caso em que haja algo a ser feito ainda. 
  
- - Programa tem um padrão de nome. Depende do módulo.
+ - Liberada - Não é possível mexer nos programas sem que se associe a outra request nova. 
  
- - Dar F1 no comando, aparece ajuda.
+  - Request de cópias para evitar de ficar criando requests. 
+
+## Programas
+
+ - Todo programa tem um um padrão de nome. Depende do módulo.
  
- - Write + aspas simples. 
+ - Para vizualizar o help dar F1 no comando, daí aparece ajuda.
  
- - Comando - utilitários->versões->Administração de versões. Dá para cerificar as requests.
+  - Comando - utilitários->versões->Administração de versões. Dá para verificar as requests associadas ao programa e situação das mesmas. 
  
  - Programa inativo não pode ser transportado. 
  
- - Primeiro liberar tarefas, depois a request. 
+ - Primeiro deve se liberar as tarefas, para depois poder se liberar a request. 
  
  - Se uma request for liberada, só é possível modificar o programa criando uma nova request. 
  
- - Request de cópias para evitar de ficar criando requests. 
- 
  - Criação de requests de cópia.
  
- - Transação StMS - gerenciamento de transportes
+ - Transação STMS - gerenciamento de transportes
  
  
  
